@@ -1,0 +1,23 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3072547, 2015-08-08T16:06:42-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: FF DIN Web Pro Medium by FontFont
+ * URL: http://www.myfonts.com/fonts/fontfont/ff-din/pro-medium/
+ * Copyright: 2009 Albert-Jan Pool published by FSI FontShop International GmbH
+ * Licensed pageviews: 50,000
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3072547
+ *
+ * © 2015 MyFonts Inc
+*/
+
+
+@font-face {font-family: 'FFDINWebProMedium';src: url('/fonts/2EE223_0_0.eot');src: url('/fonts/2EE223_0_0.eot?#iefix') format('embedded-opentype'),url('/fonts/2EE223_0_0.woff2') format('woff2'),url('/fonts/2EE223_0_0.woff') format('woff'),url('/fonts/2EE223_0_0.ttf') format('truetype');}

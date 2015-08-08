@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>CPJC Media Landscapes</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/fonts.css">
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="/js/app.js"></script>
+</head>
+
+  <body>
+
+    <div id="title">
+      <div class="m"><a href="/">Media</a></div>
+      <div class="l"><a href="/">Landscape</a></div>
+      <div class="t"><a href="/">Two thousand fifteen</a></div>
+      <div class="n"><a href="/">The New School For Social Research</a></div>
+    </div>
+
+    <div id="menu">
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/ednote">Editorial Note</a></li>
+        <li><a href="/toc">Table of Contents</a></li>
+        <li><a href="/behind">Behind The Scenes</a></li>
+      </ul>
+    </div>
+
+    <div id="pins">
+      {% for interview in site.interviews %}
+      <div class="box"
+           style="top: {{ interview.y }}px; left: {{ interview.x}}px;">
+        <a href="{{ interview.url }}"
+           data-subject="{{ interview.subject }}"
+           data-title="{{ interview.title }}"
+           data-subtitle="{{ interview.subtitle }}">
+          {{ interview.short }}
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+
+    {{ content }}
+
+    <div id="bottom">
+      <div class="logo"></div>
+      <div class="program">
+        <div>MA Creative Publishing and Critical Journalism</div>
+        <div><a href="http://www.newschool.edu/nssr/creative-publishing-critical-journalism/">Learn More About CPCJ at The New School University</a></div>
+      </div>
+    </div>
+
+  </body>
+
+</html>

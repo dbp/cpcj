@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div id="content">
+
+  <div class="top">
+    <a href="/" class="close"></a>
+
+    <div class="subject">
+      <span class="name">
+        {{ page.subject }}{% if page.role %},{% endif %}
+      </span>
+      <span class="role">{{ page.role }}</span>
+    </div>
+    <div class="byline"> {{ page.byline }}</div>
+
+  </div>
+
+  <div class="interview">
+    {{ content }}
+
+    <a href="/" class="close"></a>
+  </div>
+
+</div>
