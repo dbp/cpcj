@@ -4,4 +4,9 @@ title: Editorial Note
 permalink: /ednote/
 ---
 
-Blah
+CPCJ Media Landscape is...
+
+Students from an intersection of...
+
+
+<a href="#" class="box">See the student's process here</a>
