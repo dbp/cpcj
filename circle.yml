@@ -12,4 +12,4 @@ deployment:
     branch: master
     commands:
       - jekyll build
-      - aws s3 sync --acl public-read _site s3://cpcj.dbp.io/
+      - aws s3 sync --acl public-read _site s3://www.cpcjmedialandscape.com/

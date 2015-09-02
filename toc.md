@@ -16,7 +16,14 @@ permalink: /toc/
 </div>
 
 
-## The Irl Feature
+## The IRL Feature
+<div class="link" style="background-image: url('/img/logos/logo-thenewrepublic.jpg');">
+
+<a href="/irl">The (New) New Republic</a>
+
+<p>A live conversation with the editorial team behind the New Republic</p>
+
+</div>
 
 ## Interviews
 
