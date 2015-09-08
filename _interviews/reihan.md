@@ -12,7 +12,9 @@ img: logos/logo-portrait-play.jpg
 ---
 
   
-TINY MAMMAL or MY LUNCH WITH REIHAN
+>TINY MAMMAL 
+>or,
+>MY LUNCH WITH REIHAN
 
 <p class="dek">A play by Shea Sweeney, based on an interview with Reihan Salam.</p>
 
@@ -23,34 +25,41 @@ TINY MAMMAL or MY LUNCH WITH REIHAN
 
 **SHEA SWEENEY:** 22-year-old woman in black jeans and leather jacket, New School student. 
 
-**UPSCALE HOTEL PATRON- RESTAURANT GOER - WAITER**
-
-**DOORMAN** - **HOST 1** - **IMAGINARY DAUGHTER 1**
-
-**CONCIERGE** - **HOST 2** - **IMAGINARY DAUGHTER 2**  
-
-**SLURPING MAN** - **HOST 3** - **IMAGINARY DAUGHTER 3**
-
-**HILLARY CLINTON** - **IMAGINARY WIFE** - **UNCLE DREW**
-
-**JEB BUSH** - **IMAGINARY REIHAN** - **SEAWEED SNACK SALESMAN**
+**UPSCALE HOTEL PATRON**
+**RESTAURANT GOER**
+**WAITER**
+**DOORMAN** 
+**HOST 1**
+**IMAGINARY DAUGHTER 1**
+**CONCIERGE**
+**HOST 2** 
+**IMAGINARY DAUGHTER 2**  
+**SLURPING MAN**
+**HOST 3**
+**IMAGINARY DAUGHTER 3**
+**HILLARY CLINTON**
+**IMAGINARY WIFE**
+**UNCLE DREW**
+**JEB BUSH**
+**IMAGINARY REIHAN**
+**SEAWEED SNACK SALESMAN**
 
 > SCENE I ACT I 
 
-**Cavernous lobby of the Gramercy Park Hotel (The same hotel where one of Reihan’s VICE interviewees, Molly Crabapple, once locked herself in a room for a week of non-stop drawing). DOORMAN stands near the entrance, CONCIERGE sits at back desk. SLURPING MAN - a person in slightly tattered clothes - occupies a plush chair and slurps beige liquid from a plastic cup. Hesitant to say it’s coffee.** 
+<p class="dek">Cavernous lobby of the Gramercy Park Hotel (The same hotel where one of Reihan’s VICE interviewees, Molly Crabapple, once locked herself in a room for a week of non-stop drawing). DOORMAN stands near the entrance, CONCIERGE sits at back desk. SLURPING MAN - a person in slightly tattered clothes - occupies a plush chair and slurps beige liquid from a plastic cup. Hesitant to say it’s coffee.</p>
 
-**Enter SHEA.** 
+>Enter SHEA.
 
-SHEA
+**SHEA**
 Hi, is that the restaurant? Maialino? (Points to another door.) 
 
-    #### DOORMAN
+**DOORMAN**
     Yes, it is. 
 
-    #### SHEA
+**SHEA**
     Great, thank you. 
 
-    *SHEA glances at the clock on her phone. She’s early. Looks up again and DOORMAN has a disgusted expression on his face. She is confused. Is she doing something weird? She turns. SLURPING MAN smiles at her. She smiles back. She goes to sit in a chair across the room facing SLURPING MAN. UPSCALE PATRON with British accent approaches CONCIERGE.*
+<p class="dek">SHEA glances at the clock on her phone. She’s early. Looks up again and DOORMAN has a disgusted expression on his face. She is confused. Is she doing something weird? She turns. SLURPING MAN smiles at her. She smiles back. She goes to sit in a chair across the room facing SLURPING MAN. UPSCALE PATRON with British accent approaches CONCIERGE.</p>
 
     #### UPSCALE PATRON
     Can you recommend massage therapy in the neighborhood? Can someone come here? 
