@@ -83,6 +83,7 @@ on the left side; since we want the L to align, we have to pad... */
   }
   a:hover {
   padding-right: 130px;
+  transition: opacity 0.2s 1s ease;
   }
 }
 
