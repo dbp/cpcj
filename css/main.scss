@@ -399,9 +399,9 @@ on the left side; since we want the L to align, we have to pad... */
 
     .link {
       background-repeat: no-repeat;
-      background-position: top left;
-      background-size: 70px 70px;
-      padding-left: 70px;
+      background-position: bottom left;
+      background-size: 60px 60px;
+      padding-left: 80px;
     }
 
     a {
@@ -412,7 +412,7 @@ on the left side; since we want the L to align, we have to pad... */
       background-image: url("/img/structure/triangle-offwhite.jpg");
       background-size: 15px 15px;
       background-position: 0px 10px;
-      padding-left: 10px;
+      padding-left: 20px;
       background-repeat: no-repeat;
     }
 
