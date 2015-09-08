@@ -11,14 +11,6 @@ y: 700
 img: logos/logo-portrait-play.jpg
 ---
 
-<code>
-<ul class="screenbox">
-<li class="sceneheader">EXT. FOREST / ELSEWHERE – DAY</li>
-<li class="action">Susan is on a cell-phone call. She smiles at Melissa, who walks by with two cups of coffee.</li>
-<li class="character">SUSAN (V.O.)</li>
-<li class="dialogue">Right now, this is probably our top pilot. But things change.</li>
-</ul>
-</code>
   
 TINY MAMMAL or MY LUNCH WITH REIHAN
 
