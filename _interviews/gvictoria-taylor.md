@@ -6,8 +6,8 @@ subtitle: reddit's return from the outer-limit
 subject: Victoria Taylor
 role: reddit, Director of Talent 
 byline: By Sara Wilkins
-x: 303
-y: 459
+x: 250
+y: 480
 img: logos/logo-reddit.jpg
 
 ---
