@@ -223,11 +223,7 @@ we are going to explore a bunch of them.
 _I've noticed Matter has published fiction too._
 
 We did it once with the vaccine piece. We did it just to try it. It
-was a short story by Chimamanda Ngozi Adichie, called *Olikoye.*<sup
-id="ref_6">6</sup><span class="marginal-fn footnote"
-id="foot_6">Adichie, Chimamanda Ngozi. <a
-href="http://https//medium.com/matter/olikoye-b027d7c0a680">“Olikoye”</a>. <em>Medium.</em>
-A Matter Corporation. 19 Jan. 2015. Web. 18 June 2015. </span> Someone
+was a short story by Chimamanda Ngozi Adichie, called <a href="https://medium.com/matter/olikoye-b027d7c0a680" target="_blank"><em>Olikoye.</em></a> Someone
 is going to reinvent short fiction for the Internet age, I just don’t
 think it's going to be us.
 
@@ -313,12 +309,7 @@ the only place you need. Together, this community can actively shape
 the future of publishing and online journalism, not by revolutionizing
 content, but through form. News and stories are not delivered through
 a vertical hierarchy anymore, the information age draws its power from
-a horizontal structure. Smart journalism<sup id="ref_7">7</sup><span
-class='marginal-fn footnote' id='foot_7'>Kahn, Stephen.  <a
-href='https://medium.com/@stephenkhan/move-over-citizen-journalism-here-comes-smart-journalism-ace72f97a389'>“Move
-over citizen journalism: here comes a much smarter future.”</a>
-<em>Medium.</em> A Medium Organization. 30 March 2015. Web. 18
-June 2015. </span> is what is produced when citizen journalists and
+a horizontal structure. <a href="https://medium.com/@stephenkhan/move-over-citizen-journalism-here-comes-smart-journalism-ace72f97a389" target="_blank">Smart journalism</a> is what is produced when citizen journalists and
 professional journalists work together. This is exactly what Matter
 has realized.
 
