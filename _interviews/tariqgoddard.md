@@ -109,4 +109,4 @@ Tariq Goddard tweets at <a href="https://twitter.com/RepeaterBooks" target="_bla
 
 Cerise Steel tweets at <a href="https://twitter.com/cerisesteel" target="_blank">@cerisesteel</a>
 
-<em>Edited by </em>
+<em>Edited by Cecilia Mezulic and Carlo Mantuano</em>
