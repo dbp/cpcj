@@ -402,6 +402,7 @@ on the left side; since we want the L to align, we have to pad... */
       background-position: top left;
       background-size: 70px 70px;
       padding-left: 70px;
+      padding-right: 25px;
     }
 
     a {
@@ -413,7 +414,6 @@ on the left side; since we want the L to align, we have to pad... */
       background-size: 15px 15px;
       background-position: 0px 10px;
       padding-left: 10px;
-      padding-right: 20px;
       background-repeat: no-repeat;
     }
 
