@@ -150,7 +150,7 @@ works, sometimes it doesn't. Sometimes the best way to do that is
 it's just the right 500 words or sometimes it's a purely visual thing,
 or a video. So it's like, of the things that we do best, long-form is
 at the top of the list. We've been nominated for two National Magazine
-Awards, one for public interest on a <a href="https://medium.com/matter/youre-16-youre-a-pedophile-you-dont-want-to-hurt-anyone-what-do-you-do-now-e11ce4b88bdb" target="_blank">piece we did on pedophilia</a> and one for Feature Photography for a <a href=https://medium.com/matter/whoever-saves-a-life-1aaea20b782" target="_blank">story on
+Awards, one for public interest on a <a href="https://medium.com/matter/youre-16-youre-a-pedophile-you-dont-want-to-hurt-anyone-what-do-you-do-now-e11ce4b88bdb" target="_blank">piece we did on pedophilia</a> and one for<a href="https://medium.com/matter/whoever-saves-a-life-1aaea20b782" target="_blank"> Feature Photography for a story on
 Syria.</a> I think that we've gone
 furthest with long-form, but I also think that long-form is a crazy
 crowded field right now. Everyone is all of a sudden doing it. It
@@ -341,12 +341,8 @@ common feature on more online publications._
 
 We first did it for an old piece by Michael Paterniti, who is a GQ
 writer and was an Esquire writer before that, he just had a new
-collection of essays come out, and he wrote this piece called "Eating
-Jack Hooker's Cow,"<sup id="ref_8">8</sup><span class="marginal-fn
-footnote" id="foot_8">Paterniti, Michael. <a
-href="https://medium.com/matter/eating-jack-hooker-s-cow-759583a9caf1">“Eating
-Jack Hooker's Cow.”</a> <em>Medium.<em>. A Medium Organization. 18
-March 2015. Web. 18 June 2015.</span> which is a piece about race in
+collection of essays come out, and he wrote this piece called <a href="https://medium.com/matter/eating-jack-hooker-s-cow-759583a9caf1" target="_blank">"Eating
+Jack Hooker's Cow,"</a> which is a piece about race in
 America that is difficult in many different ways. Difficult then, but
 I think especially difficult now. We had two young writers actually
 interview him in the notes, like in the comments, where they had a
@@ -400,9 +396,9 @@ values. There is a real opening in that readership. This gives us more
 opportunities than if I were only trying to break into the New York
 and San Francisco readership.
 
-Just this morning I saw a Norwegian online publication referring to Matter in their article.<sup id="ref_9">9</sup><span class="marginal-fn footnote" id="foot_9">Brandeggen, Thorbjørn. <a href="http://www.tv2.no/a/6713261">"Hevder deltakere har jukset seg til finaleplass i Mars One."</a> <em>TV2.</em>. 21 March 2015. Web. 18 June 2015. </span> They had basically just translated the main concepts of Elmo Keep's article.<sup id="ref_10">10</sup><span class="marginal-fn footnote" id="foot_10">Keep, Elmo. . <a href="https://medium.com/matter/mars-one-insider-quits-dangerously-flawed-project-2dfef95217d3">"Mars One Finalist Explains Exactly How It‘s Ripping Off Supporters."</a> <em>Matter.</em>. A Matter Organization. 16 March 2015. Web. 18 June 2015. </span>
+Just this morning I saw a <a href="http://www.tv2.no/a/6713261" target="_blank">Norwegian online publication referring to Matter in their article.</a> They had basically just translated the main concepts of <a href="https://medium.com/matter/mars-one-insider-quits-dangerously-flawed-project-2dfef95217d3" target="_blank">Elmo Keep's article.</a>
 
-_Really? That one's been pretty big for us. What's funny is that we actually did a giant piece<sup id="ref_11">11</sup><span class="marginal-fn footnote" id="foot_11">Keep, Elmo. . <a href="https://medium.com/matter/all-dressed-up-for-mars-and-nowhere-to-go-7e76df527ca0">"All Dressed Up For Mars and Nowhere to Go."</a> <em>Matter.</em>. A Matter Organization. 09 Nov. 2014. Web. 18 June 2015. </span> about it back in November, which basically said everything that's in this latest story, but in the latest story, because we had an actual Mars One finalist who's kind of disclosing his experiences, it has really blown up in a different way. We are actually doing another piece today, a further investigation. It has the value of a good news scoop.
+What's funny is that we actually did a <a href="https://medium.com/matter/all-dressed-up-for-mars-and-nowhere-to-go-7e76df527ca0" target="_blank">giant piece about it back in November</a>, which basically said everything that's in this latest story, but in the latest story, because we had an actual Mars One finalist who's kind of disclosing his experiences, it has really blown up in a different way. We are actually doing another piece today, a further investigation. It has the value of a good news scoop.
 
 So global readership is a goal for Matter?
 
@@ -420,4 +416,4 @@ Even in journalism and publishing?
 
 Definitely. It doesn't necessarily feel like it if you are an applicant, but there are a lot of people hiring all the time.
 
-It feels natural to finish with a quote from the late David Carr’s [The New York Times’ column about Medium](http://www.nytimes.com/2014/05/26/business/media/a-platform-and-blogging-tool-medium-charms-writers.html), as it still rings true one year further into the site’s development: “Although he did not say so, Mr. Williams is putting good tools out into the world and letting the users decide what the product is. That strategy worked out O.K. for Twitter.” Despite its elusiveness, there is no denying the possibilities of Medium/Matter. If you are worried about the future of journalism and publishing, I advise you to seek out Medium/Matter; it allows you to create, shape, and map the future of our media landscape.
+It feels natural to finish with a quote from the late David Carr’s <a href="http://www.nytimes.com/2014/05/26/business/media/a-platform-and-blogging-tool-medium-charms-writers.html"> target="_blank">The New York Times’ column about Medium</a>, as it still rings true one year further into the site’s development: “Although he did not say so, Mr. Williams is putting good tools out into the world and letting the users decide what the product is. That strategy worked out O.K. for Twitter.” Despite its elusiveness, there is no denying the possibilities of Medium/Matter. If you are worried about the future of journalism and publishing, I advise you to seek out Medium/Matter; it allows you to create, shape, and map the future of our media landscape.
