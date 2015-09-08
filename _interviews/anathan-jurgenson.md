@@ -6,8 +6,8 @@ subtitle: It's time to understand Snapchat Discover
 subject: Nathan Jurgenson
 role: Snapchat, Researcher
 byline: By Troy O’Neill
-x: 550
-y: 75
+x: 500
+y: 50
 img: logos/logo-snapchat.jpg
 ---
 
