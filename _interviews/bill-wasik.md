@@ -7,7 +7,7 @@ subject: Bill Wasik
 role: New York Times Magazine, Deputy Editor
 byline: By Paula Duran, edited by Carlo Mantuano
 x: 550
-y: 150
+y: 400
 img: logos/logo-nyt-tmag.jpg
 ---
 
