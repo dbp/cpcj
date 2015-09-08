@@ -6,7 +6,7 @@ subtitle: The New York Times at the center of the edge
 subject: Bill Wasik
 role: New York Times Magazine, Deputy Editor
 byline: By Paula Duran, edited by Carlo Mantuano
-x: 400
+x: 375
 y: 350
 img: logos/logo-nyt-tmag.jpg
 ---
