@@ -6,7 +6,7 @@ subtitle: A social media essay by DarkMatter
 subject: Marketing LGBT
 role: Social Media
 byline: By Dark Matter
-X: 500
+X: 150
 y: 500
 img: logos/logo-darkmatter.jpg
 ---
