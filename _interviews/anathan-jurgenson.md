@@ -11,7 +11,7 @@ y: 400
 img: logos/logo-snapchat.jpg
 ---
 
-<p class ="dek">An interview with Snapchat's Senior Researcher, Nathan Jurgenson, XXXX WHAT? </p>
+<p class ="dek">An interview with Snapchat's Senior Researcher, Nathan Jurgenson, on permanance, ephemerality, and the arrival of Snapchat Discover </p>
 
 Everyone in the media industry is right to be scared by Snapchat’s new Discover feature. Discover, a news publishing utility that was released late this past January, is gaining momentum as a new way to produce and distribute content, threatening to dramatically change the way news is consumed. With an estimated 200 million monthly users, Snapchat’s immense popularity  means that the Discover feature could be a holy grail for advertisers and small publications alike, because they can promise unique connectivity with younger audiences.
 
@@ -128,9 +128,9 @@ If you would have asked me a year ago, I would have said that virality, this sor
 
 - - - 
 
-> Nathan Jurgenson tweets at [@nathanjurgenson](https://www.twitter.com/nathanjurgenson).
+Nathan Jurgenson tweets at [@nathanjurgenson](https://www.twitter.com/nathanjurgenson).
 
-> Troy O’Neill tweets at [@atrojan_horse](https://www.twitter.com/atrojan_horse).
+Troy O’Neill tweets at [@atrojan_horse](https://www.twitter.com/atrojan_horse).
 
 <em>Edited by Andreas Eckhardt-Læssøe</em>
 
