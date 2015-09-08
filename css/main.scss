@@ -413,7 +413,6 @@ on the left side; since we want the L to align, we have to pad... */
       background-size: 15px 15px;
       background-position: 0px 10px;
       padding-left: 10px;
-      padding-right: 10px;
       background-repeat: no-repeat;
     }
 
@@ -422,6 +421,7 @@ on the left side; since we want the L to align, we have to pad... */
       font-style: italic;
       font-size: 18px;
       margin: 0;
+      padding-left: 10px;
       line-height: 50px;
     }
 
