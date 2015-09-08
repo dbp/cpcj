@@ -7,6 +7,7 @@ permalink: /ednote/
 <h2>CPCJ Media Landscape</h2>
 
 **Spring 2015, Volume 1**
+<br>
 ![cpcj-logo-bottom]
 (https://github.com/dbp/cpcj/blob/master/img/structure/cpcj-logo-bottom.jpg)
 
