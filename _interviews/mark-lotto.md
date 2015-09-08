@@ -32,16 +32,10 @@ thrown in their face on a daily basis. On Medium/Matter, in-depth
 journalism and clickbait articles blend in a classic web 2.0 fashion,
 and it can be difficult to know if you are indeed on Medium or on
 Matter. Yet, there is something about this online publication that
-makes it stand out from the crowd.</p>
+makes it stand out from the crowd.
 
-Ev Williams, co-creator of Twitter, meant for Medium to be “new place
-on the Internet where people share ideas and stories that are longer
-than 140 characters and not just for friends.”<sup
-id="ref_2">2</sup><span class="marginal-fn footnote"
-id="foot_2">Williams,
-Ev. "[Welcome to Medium](https://medium.com/about/welcome-to-medium-9e53ca408c48)."
-<em>Medium.</em> A Matter Corporation. 14 Aug 2014. Web. 18 June
-2015.</span> He says it is meant to be used by everyone from
+Ev Williams, co-creator of Twitter, <a href="https://medium.com/about/welcome-to-medium-9e53ca408c48" target="_blank">meant for Medium to be</a> “new place on the Internet where people share ideas and stories that are longer
+than 140 characters and not just for friends.” He says it is meant to be used by everyone from
 professional journalists to amateur cooks, and he also boldly states
 that “It’s designed for little stories that make your day better and
 manifestos that change the world.” This can come off as a bit
@@ -96,14 +90,10 @@ everyone on staff, all the editors, the writers below me, to fulfill
 that vision. Matter is a little complicated in the sense that Matter
 started out originally as a long-form science publication founded by
 Bobby Johnson and Jim Giles. Bobby continues to work for me, but Jim
-is no longer there. It was acquired by Medium not long after it raised
-its money on Kickstarter.<sup id="ref_3">3</sup><span
-class="marginal-fn footnote" id="foot_3">On November 22, 2012,
-<em>Matter’s</em><a
-href="https://www.kickstarter.com/projects/readmatter/matter/description">
-Kickstarter campaign launched</a>. <em>"We need your help to build our
-site and commission the first three pieces.”</em> – Jim Giles and
-Bobbie Johnson</span> They spend about a year putting about
+is no longer there. It was <a href="https://www.kickstarter.com/projects/readmatter/matter/description" target="_blank">acquired by Medium not long after it raised
+its money on Kickstarter.</a>
+
+They spend about a year putting about
 essentially one piece every month on Medium, and they did a lot of
 tremendous work at that time, work we still often highlight, but there
 was a sense that there was a limit to what you can do with just one
@@ -160,18 +150,8 @@ works, sometimes it doesn't. Sometimes the best way to do that is
 it's just the right 500 words or sometimes it's a purely visual thing,
 or a video. So it's like, of the things that we do best, long-form is
 at the top of the list. We've been nominated for two National Magazine
-Awards, one for public interest on a piece we did on pedophilia<sup
-id="ref_4">4</sup><span class="marginal-fn footnote"
-id="foot_4">Malone, Luke. <a
-href="https://medium.com/matter/youre-16-youre-a-pedophile-you-dont-want-to-hurt-anyone-what-do-you-do-now-e11ce4b88bdb">“You’re 16. You’re
-a Pedophile. You Don’t Want to Hurt Anyone. What Do You Do
-Now?”</a>. <em>Medium.</em> A Matter Corporation. 10 Aug 2014. Web. 18
-June 2015. </span> and one for Feature Photography for a story on
-Syria<sup id="ref_5">5</sup><span class="marginal-fn footnote"
-id="foot_5">Aikins, Matthieu and Sebastian Tomada. <a
-href="https://medium.com/matter/whoever-saves-a-life-1aaea20b782">“Whoever
-Saves a Life.”</a> <em>Medium.</em> A Matter Corporation. 14
-Sept. 2014. Web. 18 June 2015. </span> I think that we've gone
+Awards, one for public interest on a <a href="https://medium.com/matter/youre-16-youre-a-pedophile-you-dont-want-to-hurt-anyone-what-do-you-do-now-e11ce4b88bdb" target="_blank">piece we did on pedophilia</a> and one for Feature Photography for a <a href=https://medium.com/matter/whoever-saves-a-life-1aaea20b782" target="_blank">story on
+Syria.</a> I think that we've gone
 furthest with long-form, but I also think that long-form is a crazy
 crowded field right now. Everyone is all of a sudden doing it. It
 seems like everyone is publishing 4,000 word pieces everyday, and most
