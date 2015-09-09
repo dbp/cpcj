@@ -1,6 +1,6 @@
 ---
 layout: interview
-short: Medium | Matter
+short: Medium : Matter
 title: The Age of Engagement
 subtitle: A discussion with Matter's Editor-in-chief
 subject: Mark Lotto
