@@ -34,7 +34,7 @@ At this point I started what I’m calling the Q&A, but he had so much to say th
 
 **Guga Chacra.** My father went to medical school in the US, and living here was a dream for me. After living in Buenos Aires as a foreign correspondent for Folha de São Paulo, one of the leading local newspapers, I decided to apply for a masters program. Between Washington, Beirut, and NY, I decided to come to NY.
   
-_Do you have a daily routine for consuming media?
+_Do you have a daily routine for consuming media?_
 
 Yes. I wake up and I read the NY Times briefing. Then I take my dog for a walk, get breakfast, and I read the NY Times — the whole thing. 
 
