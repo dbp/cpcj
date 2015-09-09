@@ -6,7 +6,7 @@ subtitle: Refinery29 proves the power of the brand
 subject: Connie Wang
 role: Fashion Features Director, Refinery29
 byline: By Anastasia Dennis and Carlo Mantuano
-x: 900
+x: 850
 y: 600
 img: logos/logo-ref29.jpg
 --- 
