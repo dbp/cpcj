@@ -39,12 +39,14 @@ _When Brown Looks in the Mirror and Comes Out White_. By Alok Vaid-Menon. Leeway
 
   ----
 
-  ## #ItGetsBitter
-  Gay rights are for rich gay whites.
+**ItGetsBitter**
 
-  <div class="fb-post" data-href="https://www.facebook.com/darkmatterpoetry/posts/798197836927802" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/darkmatterpoetry/posts/798197836927802"><p>#ItGetsBourgie when marriage and not murder is the number one queer issue.</p>Posted by <a href="https://www.facebook.com/darkmatterpoetry">Darkmatter</a> on&nbsp;<a href="https://www.facebook.com/darkmatterpoetry/posts/798197836927802">Sunday, March 8, 2015</a></blockquote></div></div>
+_Gay rights are for rich gay whites._
 
-  <div class="fb-post" data-href="https://www.facebook.com/darkmatterpoetry/posts/809793485768237" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/darkmatterpoetry/posts/809793485768237"><p>the paradox of being brown &amp; queer:-- white people may think that we are queer because we are brown -- brown people may think we are white because we are queer</p>Posted by <a href="https://www.facebook.com/darkmatterpoetry">Darkmatter</a> on&nbsp;<a href="https://www.facebook.com/darkmatterpoetry/posts/809793485768237">Tuesday, March 24, 2015</a></blockquote></div></div>
+  <div class="fb-post" data-href="https://www.facebook.com/darkmatterpoetry/posts/798197836927802" data-width="500"><div class="fb-xfbml-parse-ignore">
+  <a href="https://www.facebook.com/darkmatterpoetry/posts/798197836927802"></a></p>#ItGetsBourgie when marriage and not murder is the number one queer issue.</p>Posted by <a href="https://www.facebook.com/darkmatterpoetry">Darkmatter</a> on&nbsp;<a href="https://www.facebook.com/darkmatterpoetry/posts/798197836927802">Sunday, March 8, 2015</a></div></div>
+
+  <div class="fb-post" data-href="https://www.facebook.com/darkmatterpoetry/posts/809793485768237" data-width="500"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/darkmatterpoetry/posts/809793485768237"><p>the paradox of being brown &amp; queer:-- white people may think that we are queer because we are brown -- brown people may think we are white because we are queer</a></p>Posted by <a href="https://www.facebook.com/darkmatterpoetry">Darkmatter</a> on&nbsp;<a href="https://www.facebook.com/darkmatterpoetry/posts/809793485768237">Tuesday, March 24, 2015</a></div></div>
 
   <div class="fb-post" data-href="https://www.facebook.com/darkmatterpoetry/posts/797817940299125" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/darkmatterpoetry/posts/797817940299125"><p>white feminism is more interested in making people identify as *feminists* than it is in ending patriarchy. white gay...</p>Posted by <a href="https://www.facebook.com/darkmatterpoetry">Darkmatter</a> on&nbsp;<a href="https://www.facebook.com/darkmatterpoetry/posts/797817940299125">Wednesday, March 4, 2015</a></blockquote></div></div>
 
