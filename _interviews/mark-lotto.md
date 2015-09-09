@@ -385,10 +385,10 @@ As Mark throws away our coffee cups, I wonder if this doesn’t also apply to pe
 
 ---
 
-_What does your generation in Norway read? Did you read English
-publications growing up?_
+What does your generation in Norway read? Did you read English
+publications growing up?
 
-Well, growing up we only read news in Norwegian, but now from my personal experience, I think most news savvy people in their 20's read Buzzfeed and Vice just as much as traditional Norwegian newspapers.
+_Well, growing up we only read news in Norwegian, but now from my personal experience, I think most news savvy people in their 20's read Buzzfeed and Vice just as much as traditional Norwegian newspapers._
 
 Right, I do think that there is an opening in that audience. People
 share a certain kind of global, progressive, and cosmopolitan
@@ -400,20 +400,27 @@ Just this morning I saw a <a href="http://www.tv2.no/a/6713261" target="_blank">
 
 What's funny is that we actually did a <a href="https://medium.com/matter/all-dressed-up-for-mars-and-nowhere-to-go-7e76df527ca0" target="_blank">giant piece about it back in November</a>, which basically said everything that's in this latest story, but in the latest story, because we had an actual Mars One finalist who's kind of disclosing his experiences, it has really blown up in a different way. We are actually doing another piece today, a further investigation. It has the value of a good news scoop.
 
-So global readership is a goal for Matter?
+_So global readership is a goal for Matter?_
 
 Definitely! We actually do, our audience is about 40% international. Medium in general has very high international readership, and Matter is a pretty strong reflection of that. It's not just that it frees us to do stories from Sierra Leone, Syria, Sweden, Australia, or Hong Kong, it is also that we don't have to write those pieces so that they are just explaining international affairs back to American audiences. We can find people who want to read those stories elsewhere.
 
-What would you say to those in my generation who are getting into publishing? Do you have any advice?
+_What would you say to those in my generation who are getting into publishing? Do you have any advice?_
 
 I'm one of those people who believe that this is the greatest possible time to be a journalist. I don't want my daughter to do it. I’d like her to go be a scientist or something, but I still think that this is an amazing time, because there are almost too many outlets out there. A lot of them are doing exceptional work, And all of them feed off of the energy and creativity of young people. But getting that first job is hard. Getting all the subsequent jobs is easier than it ever was.
 
-How did you get your first job?
+_How did you get your first job?_
 
 It took me a long time. I graduated in 2000 and started looking for work the as the dot com media bubble was blowing up. Then 9/11 happened, and it was a really awful time to try and become a journalist. I did better the second time I came to New York, when I tried to do it again in 2004. Back then it was very simple, I didn't want to go to journalism school, but there were some very good internships here in New York. [Harper's](http://harpers.org), [The Nation](http://www.thenation.com), [N+1](https://nplusonemag.com), [The New Yorker](http://www.newyorker.com), were the best for making certain kinds of connections, but I don't know if that is still true anymore. You should look for the places that are really expanding and investing in new voices. I would always go for the new place. Especially right now. There are literally more jobs right now than people know how to hire for.
 
-Even in journalism and publishing?
+_Even in journalism and publishing?_
 
 Definitely. It doesn't necessarily feel like it if you are an applicant, but there are a lot of people hiring all the time.
 
-It feels natural to finish with a quote from the late David Carr’s <a href="http://www.nytimes.com/2014/05/26/business/media/a-platform-and-blogging-tool-medium-charms-writers.html"> target="_blank">The New York Times’ column about Medium</a>, as it still rings true one year further into the site’s development: “Although he did not say so, Mr. Williams is putting good tools out into the world and letting the users decide what the product is. That strategy worked out O.K. for Twitter.” Despite its elusiveness, there is no denying the possibilities of Medium/Matter. If you are worried about the future of journalism and publishing, I advise you to seek out Medium/Matter; it allows you to create, shape, and map the future of our media landscape.
+It feels natural to finish with a quote from the late David Carr’s <a href="http://www.nytimes.com/2014/05/26/business/media/a-platform-and-blogging-tool-medium-charms-writers.html" target="_blank">The New York Times’ column about Medium</a>, as it still rings true one year further into the site’s development: “Although he did not say so, Mr. Williams is putting good tools out into the world and letting the users decide what the product is. That strategy worked out O.K. for Twitter.” Despite its elusiveness, there is no denying the possibilities of Medium/Matter. If you are worried about the future of journalism and publishing, I advise you to seek out Medium/Matter; it allows you to create, shape, and map the future of our media landscape.
+
+---
+
+Mark Lotto tweets at <a href="https://twitter.com/marklotto" target="_blank">@marklotto</a>.
+
+<em>Edited by Carlo Mantuano</em>
+
