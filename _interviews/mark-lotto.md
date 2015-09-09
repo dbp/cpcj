@@ -7,7 +7,7 @@ subject: Mark Lotto
 role: Matter, Editor-in-Chief
 byline: By Silje Kristine Andersen, edited by Carlo Mantuano
 x: 600
-y: 350
+y: 380
 img: logos/logo-medium-matter.jpg
 ---
 
