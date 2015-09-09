@@ -6,7 +6,7 @@ subtitle: An investigation in photographs
 subject: New Yorkers
 role: Media Consumer
 byline: By Juliana Bechara and Paula Duran
-x: 800
+x: 750
 y: 250
 img: logos/logo-picto-screen.jpg
 ---
