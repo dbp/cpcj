@@ -7,9 +7,6 @@ permalink: /ednote/
 <h2>CPCJ Media Landscape</h2>
 
 **Spring 2015, Volume 1**
-<br />
-![Media Landscape]
-(https://github.com/dbp/cpcj/blob/master/img/otherimages/medialandscaplogofinal.png)
 <br/>
 
 ---
