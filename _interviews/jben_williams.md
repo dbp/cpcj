@@ -13,7 +13,7 @@ img: logos/logo-ny-mag.jpg
 
 <p class="dek">Ben Williams discusses how New York Magazine's prowess on the internet expanded the brand beyond five boroughs and made its voice global.</p>
    
-Now more than ever, technology has connected us to one another, but what can go missing as a result is our unique and authentic voice, which is easily drowned out by thousands of others on the internet. [New York Magazine]("http://nymag.com") is a publication that has managed to have its cake and eat it too — they have maintained their distinctively New York character while growing their readership nationally. New York Magazine’s expansion from a local print publication to a national multimedia entity was seamless enough for Washington Post media critic Howard Kurtz to remark that: "The nation's best and most-imitated city magazine is often not about the city — at least not in the overcrowded, traffic-clogged, five boroughs sense." This transition was no easy feat. I sat down with Ben Williams, New York Magazine’s online editorial director, who described this by saying: “It’s called New York Magazine. It always had the identity of a local publication, but on the internet you don’t want to limit yourself to just the audience in your city.”
+Now more than ever, technology has connected us to one another, but what can go missing as a result is our unique and authentic voice, which is easily drowned out by thousands of others on the internet. <em>New York Magazine</em> is a publication that has managed to have its cake and eat it too — they have maintained their distinctively New York character while growing their readership nationally. New York Magazine’s expansion from a local print publication to a national multimedia entity was seamless enough for Washington Post media critic Howard Kurtz to remark that: "The nation's best and most-imitated city magazine is often not about the city — at least not in the overcrowded, traffic-clogged, five boroughs sense." This transition was no easy feat. I sat down with Ben Williams, New York Magazine’s online editorial director, who described this by saying: “It’s called New York Magazine. It always had the identity of a local publication, but on the internet you don’t want to limit yourself to just the audience in your city.”
 
 As Williams has been with New York Magazine for over a decade — first as a senior editor in 2004, and then in his current capacity as the online editorial director — he has been in the front row watching these changes. Born in London, the NYC transplant first worked at CitySearch and then at Slate before joining New York Magazine, where he has proven himself to be instrumental for the website’s transition from a purveyor of magazine content to its own content destination.
    
@@ -112,6 +112,6 @@ ___
 
 Follow Ben Williams at [@bendwilliams](https://twitter.com/bendwilliams)
 
-Follow Katie Parker Magyar at ??????
+Follow Katie Parker Magyar at <a href="https://twitter.com/kpm1231" target="_blank">@kpm1231</a>
 
 <em>Edited by Andreas Eckhardt-Læssøe</em>
