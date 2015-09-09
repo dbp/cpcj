@@ -6,8 +6,8 @@ subtitle: Know it Awls
 subject: John Herrman
 role: Editor
 byline: By Gabriel Clermont
-x: 550
-y: 275
+x: 650 
+y: 100
 img: logos/logo-theawl.jpg
 ---
 
