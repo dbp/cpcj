@@ -6,8 +6,8 @@ subtitle: A discussion with Ben Williams of NYMag.com
 subject: Ben Williams
 role: New York Magazine, Editorial Director
 byline: By Katie Parker Magyar
-x: 100
-y: 300
+x: 800
+y: 450
 img: logos/logo-ny-mag.jpg
 ---
 
