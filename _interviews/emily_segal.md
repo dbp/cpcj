@@ -17,7 +17,7 @@ img: logos/logo-g.jpg
    
 When the internet became a structural part of society, the publishing industry started shaking and moving fast in order to keep up with new forms of communication. In this digital-native, post-internet landscape, data of all kinds is instantaneously collected, shared, remixed and re-uploaded; this is the internet’s production line, constantly redefining itself in a hyper globalized culture.
 
-The continuous stream of information and visual stimuli have deeply affected concepts like individuality, aesthetics, and forms of consumption. This also means something new for content producers whose voices can be drowned out in the sea of digital information. Traditional advertising approaches don't seem to work anymore, especially for young consumers, which is why creating a brand today also means overcoming old school marketing dogmas. This is why two New York brands, the trend-forecasting group K-Hole and the open source annotation website [Genius](http://genius.com)have come up with new ideas, experimenting with new branding concepts, decoding and framing youth culture to create its new identity.
+The continuous stream of information and visual stimuli have deeply affected concepts like individuality, aesthetics, and forms of consumption. This also means something new for content producers whose voices can be drowned out in the sea of digital information. Traditional advertising approaches don't seem to work anymore, especially for young consumers, which is why creating a brand today also means overcoming old school marketing dogmas. This is why two New York brands, the trend-forecasting group K-Hole and the open source annotation website [Genius](http://genius.com) have come up with new ideas, experimenting with new branding concepts, decoding and framing youth culture to create its new identity.
    
 K-Hole, a New York-based trend forecasting collective that was founded in 2010, publishes trend forecasting reports modeled around corporate PowerPoint presentations, stock images, and advertising concepts that explore the aesthetics of today’s young consumer. In their most recent publication, [Youth Mode: a Report on Freedom](http://khole.net/issues/youth-mode/), K-Hole freezes our current cultural moment, taking a snapshot of today’s youth culture; the fluid transactions between the virtual and the real, the loss of uniqueness, and new "assertions of individuality." Youth mode replaces its hipster and indie-inspired predecessor with a more self-aware young consumer whose identity is formed through "self-identification rather than the self-differentiation.” This played a part in the popularization of #normcore, a concept turned into a fashion movement that revenged the bearded hipster with monochrome grayscale Bermuda jeans, and made khaki its flag color.
    
@@ -97,8 +97,8 @@ Find your collaborators and don’t be too strict about trying to do everything 
 
 ---
 
-Follow Emily Segal at [@khole_emily](https://twitter.com/khole_emily).
+Follow Emily Segal at <a href="https://twitter.com/khole_emily" target="_blank">@khole_emily</a>.
 
-Follow Cecilia Mezulic at [@cecilemzc](https://twitter.com/cecilemzc).
+Follow Cecilia Mezulic at <a href="https://instagram.com/cecilemzc/" target="_blank">@cecilemzc</a>.
 
 <em>Edited by Troy O'Neill</em>
