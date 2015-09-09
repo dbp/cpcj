@@ -6,8 +6,8 @@ subtitle: A discussion with Matter's Editor-in-chief
 subject: Mark Lotto
 role: Matter, Editor-in-Chief
 byline: By Silje Kristine Andersen, edited by Carlo Mantuano
-x: 550
-y: 300
+x: 600
+y: 350
 img: logos/logo-medium-matter.jpg
 ---
 
