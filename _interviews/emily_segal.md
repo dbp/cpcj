@@ -7,8 +7,8 @@ subject: Emily Segal
 role: Creative Director
 byline: By Cecilia Mezulic
 edited: By Troy O’Neill
-x: 700 
-y: 100
+x: 100 
+y: 300
 img: logos/logo-g.jpg
 ---
 
