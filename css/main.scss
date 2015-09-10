@@ -118,6 +118,11 @@ on the left side; since we want the L to align, we have to pad... */
     height: 60px;
     background-image: url("/img/structure/cpcj-logo-bottom.jpg");
     background-size: contain;
+    a {
+      display: block;
+      width: 60px;
+      height: 60px;
+    }
   }
   
   .socialfb {
