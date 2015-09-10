@@ -125,6 +125,11 @@ on the left side; since we want the L to align, we have to pad... */
     height: 60px;
     background-image: url("/img/structure/social-facebook.jpg");
     background-size: contain;
+    a {
+      display: block;
+      width: 60px;
+      height: 60px;
+    }
     
   }
 
@@ -134,7 +139,11 @@ on the left side; since we want the L to align, we have to pad... */
     height: 60px;
     background-image: url("/img/structure/social-twitter.jpg");
     background-size: contain;
-   
+    a {
+      display: block;
+      width: 60px;
+      height: 60px;
+    }
  }
 
  .socialtumblr {
@@ -143,6 +152,11 @@ on the left side; since we want the L to align, we have to pad... */
     height: 60px;
     background-image: url("/img/structure/social-tumblr.jpg");
     background-size: contain;
+     a {
+      display: block;
+      width: 60px;
+      height: 60px;
+    }
    
  }
 
@@ -152,6 +166,11 @@ on the left side; since we want the L to align, we have to pad... */
     height: 60px;
     background-image: url("/img/structure/social-email.jpg");
     background-size: contain;
+     a {
+      display: block;
+      width: 60px;
+      height: 60px;
+    }
  }
 } 
 
