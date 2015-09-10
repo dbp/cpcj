@@ -11,10 +11,10 @@ y: 250
 img: logos/logo-picto-screen.jpg
 ---
 
-<p class ="dek">A photo essay investigating how New Yorkers consume media today by Juliana Bechara and Paula Duran.</p>
-<br/>
+_A photo essay investigating how New Yorkers consume media today by Juliana Bechara and Paula Duran._
 
 > <a href="http://www.cpcjmedialandscape.com/howweconsumemedia.pdf">Download PDF</a>
 
 <br/>
 <em>Photography by Fran Parente</em>
+<br><br>
