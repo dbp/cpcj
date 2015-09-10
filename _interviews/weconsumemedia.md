@@ -11,8 +11,10 @@ y: 250
 img: logos/logo-picto-screen.jpg
 ---
 
-<p class ="dek">A survey of contemporary media consumers in New York City. Photography by Fran Parente</p>
+<p class ="dek">A photo essay investigating how New Yorkers consume media today by Juliana Bechara and Paula Duran.</p>
+<br/>
 
 > <a href="http://www.cpcjmedialandscape.com/howweconsumemedia.pdf">Download PDF</a>
 
-
+<br/>
+<em>Photography by Fran Parente</em>
