@@ -11,7 +11,7 @@ y: 170
 img: logos/logo-snapchat.jpg
 ---
 
-<p class ="dek">An interview with Snapchat's Senior Researcher, Nathan Jurgenson, on permanance, ephemerality, and the arrival of Snapchat Discover </p>
+<p class ="dek">Snapchat Discover, an internal news app that is attached to the third most popular app among millennials, is changing the way that news media is produced and shared. Discover makes a name for itself in its ephemeral functionality, going against the grain of the media industry's viral economy, which produces Buzzfeed listicles and memes. Is this the next magazine form? CPCJ talks with Snapchat's researcher and social media theorist Nathan Jurgenson to find out.</p>
 
 Everyone in the media industry is right to be scared by Snapchat’s new Discover feature. Discover, a news publishing utility that was released late this past January, is gaining momentum as a new way to produce and distribute content, threatening to dramatically change the way news is consumed. With an estimated 200 million monthly users, Snapchat’s immense popularity  means that the Discover feature could be a holy grail for advertisers and small publications alike, because they can promise unique connectivity with younger audiences.
 
