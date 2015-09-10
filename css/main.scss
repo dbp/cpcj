@@ -101,8 +101,9 @@ on the left side; since we want the L to align, we have to pad... */
     text-decoration: none;
   }
 
-  .program {
+  .program > div {
     padding-top: 10px;
+    float: right;
   }
 
   .program > div {
@@ -111,14 +112,14 @@ on the left side; since we want the L to align, we have to pad... */
     padding-right: 20px;
   }
 
-  .logo {
+  .logo > div {
     float: right;
     width: 60px;
     height: 60px;
     background-image: url("/img/structure/cpcj-logo-bottom.jpg");
     background-size: contain;
   }
-  .socialfb {
+  .socialfb > div {
     float: left;
     width: 60px;
     height: 60px;
@@ -126,14 +127,31 @@ on the left side; since we want the L to align, we have to pad... */
     background-size: contain;
 }
 
- .socialtwitter {
+ .socialtwitter > div {
     float: left;
     width: 60px;
     height: 60px;
     background-image: url("/img/structure/social-twitter.jpg");
     background-size: contain;
-    
 }
+
+ .socialtumblr > div {
+    float: left;
+    width: 60px;
+    height: 60px;
+    background-image: url("/img/structure/social-tumblr.jpg");
+    background-size: contain;
+}
+
+ .socialemail > div {
+    float: left;
+    width: 60px;
+    height: 60px;
+    background-image: url("/img/structure/social-email.jpg");
+    background-size: contain;
+}
+
+
 
 #pins {
   position: relative;
