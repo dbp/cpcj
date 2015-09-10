@@ -23,5 +23,4 @@ A play by Shea Sweeney, based on an interview with Reihan Salam.
 Reihan Salam tweets at <a href="https://twitter.com/reihan">@reihan</a>
 
 Shea Sweeney tweets at <a href="https://twitter.com/sheacori">@sheacori</a>
-
-<br><br>
+<br>
