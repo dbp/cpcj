@@ -147,7 +147,7 @@ on the left side; since we want the L to align, we have to pad... */
  }
 
  .socialtumblr {
-    float: left;
+    float: initial;
     width: 60px;
     height: 60px;
     background-image: url("/img/structure/social-tumblr.jpg");
@@ -161,7 +161,7 @@ on the left side; since we want the L to align, we have to pad... */
  }
 
  .socialemail {
-    float: left;
+    float: initial;
     width: 60px;
     height: 60px;
     background-image: url("/img/structure/social-email.jpg");
