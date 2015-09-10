@@ -304,6 +304,7 @@ on the left side; since we want the L to align, we have to pad... */
       top: 0;
       width: 60px;
       height: 60px;
+      padding-bottom: 20px;
       background-size: 60px 60px;
       background-image: url("/img/structure/close-top.jpg");
       &:hover {
