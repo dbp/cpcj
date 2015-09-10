@@ -16,7 +16,7 @@ _Tiny Mamal or My Lunch with Reihan_
 
 A play by Shea Sweeney, based on an interview with Reihan Salam.
 
-><a href="http://www.cpcjmedialandscape.com/tinymamalscreenplay.pdf">Download the Stage Play Here</a>
+><a href="http://www.cpcjmedialandscape.com/tinymamalscreenplay.pdf" target="blank">Download the Stage Play (PDF)</a>
 
 ---
 
