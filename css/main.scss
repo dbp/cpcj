@@ -107,7 +107,8 @@ on the left side; since we want the L to align, we have to pad... */
 
   .program > div {
     line-height: 20px;
-    padding-left: 35px;
+    float: right;
+    padding-right: 20px;
   }
 
   .logo {
@@ -117,6 +118,21 @@ on the left side; since we want the L to align, we have to pad... */
     background-image: url("/img/structure/cpcj-logo-bottom.jpg");
     background-size: contain;
   }
+  .socialfb {
+    float: left;
+    width: 60px;
+    height: 60px;
+    background-image: url("/img/structure/social-facebook.jpg");
+    background-size: contain;
+}
+
+ .socialtwitter {
+    float: left;
+    width: 60px;
+    height: 60px;
+    background-image: url("/img/structure/social-twitter.jpg");
+    background-size: contain;
+    
 }
 
 #pins {
