@@ -11,6 +11,8 @@ permalink: /ednote/
 
 ---
 
+![Logo](/otherimages/cpcjicon.png)
+
 Our project name, Media Landscape, is paradoxical. One definition of a landscape is mere scenery, to be looked at like a pastoral painting in a museum; pretty but inaccessible. Yet, from where we stand, in New York City in May 2015, nothing could be further from the truth about the current state of media. Never before has the media industry elicited so much user participation. “Users” are encouraged to share, like, tweet, annotate and engage all day, every day, and have effectively been transformed from passive consumers into active producers of content. <br /> <br /> 
 
 The media landscape today is also something that we can walk through, something that can be mapped out; that is what the CPCJ has set out to do. Our goal is to strategically connect different happenings in the media and publishing industries in a way that would show their future. However, media moves quickly. So, giving any sort of overview of the current situation is also a process of exclusion, or, to use a popular buzzword these days, curation. We focused on major changes that have happened within the last year, believing that the current climate is one of dramatic changes that will affect us all in years to come.<br /><br />
