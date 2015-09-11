@@ -35,5 +35,9 @@ Signed CPCJ, Spring 2015
 <br /><br />
 
 <a href="http://cpcj.tumblr.com/" class="box">See the students' process here</a>
-<br /><br />
+<br><br>
+
+<a href="http://creative-publishing.org/" target="_blank" class="box">Learn more about The New School University's MA in Creative Publishing and critical journalism.</a>
+<br><br>
+
 
