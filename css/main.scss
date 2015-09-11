@@ -448,10 +448,12 @@ on the left side; since we want the L to align, we have to pad... */
       display: inline-block;
 
     }
-    
   img {
-    position: relative;
-    
+    float: left;
+  }  
+  
+  img.Logo {
+    position: center;
   }  
 
   }
