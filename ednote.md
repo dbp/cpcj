@@ -4,10 +4,10 @@ title: Editorial Note
 permalink: /ednote/
 ---
 
-<center><h2>CPCJ Media Landscape</h2>
+<h2>CPCJ Media Landscape</h2>
 
 **Spring 2015, Volume 1**
-</center><br/>
+<br/>
 
 ---
 
