@@ -31,8 +31,8 @@ On our the first day of class in the new Creative Publishing and Creative Journa
 
 We are those tweeters, likers, commenters, and annotators. During the course of our project we have realized that nothing is static or guaranteed; our trial and error has challenged us to experiment just like every other media producer today. This makes our experimental magazine the biggest lesson that we have learned from the media industry itself. <br /><br />
 
-
-<em>Signed CPCJ, Spring 2015</em>
+<br>
+_Signed CPCJ, Spring 2015_
 <br>
 
 <a href="http://cpcj.tumblr.com/" class="box">See the students' process here</a>
