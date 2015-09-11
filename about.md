@@ -63,7 +63,32 @@ permalink: /about/
 
 [Chloe Gold](#chloe-gold), _Digital Editor_
 
+---
 
+# Thanks To
+
+<div class="half-hr"></div>
+
+
+[Position Development](http://positiondev.com)
+
+Imp Kerr, _Design Consultant_
+
+[Tyler Reinhard](https://twitter.com/abolishme) and the staff of *[Mask Magazine](http://maskamagazine.com)*
+
+The staff of [Verso Books](http://www.versobooks.com)
+
+Gray Beltran of [the Atavist](http://atavist.com) 
+
+[Sam Lavigne](http://lav.io/)
+
+Andrew Beccone of [Reanimation Library](http://www.reanimationlibrary.org/) 
+
+[DarkMatter](http://darkmatterpoetry.com/)
+
+[Talita Zaragoza](http://www.talitazaragoza.com/), _Artist_ 
+
+James Miller and Juliette Cezzar of [Creative Publishing and Critical Journalism](http://creative-publishing.org/)
 
 ---
 
@@ -209,32 +234,7 @@ Creative Director at Verso Books, Co-founder, publisher and former Editor-in-Chi
 > <rosenfrd@newschool.edu>
 
 
----
 
-# Thanks To
-
-<div class="half-hr"></div>
-
-
-[Position Development](http://positiondev.com)
-
-Imp Kerr, _Design Consultant_
-
-[Tyler Reinhard](https://twitter.com/abolishme) and the staff of *[Mask Magazine](http://maskamagazine.com)*
-
-The staff of [Verso Books](http://www.versobooks.com)
-
-Gray Beltran of [the Atavist](http://atavist.com) 
-
-[Sam Lavigne](http://lav.io/)
-
-Andrew Beccone of [Reanimation Library](http://www.reanimationlibrary.org/) 
-
-[DarkMatter](http://darkmatterpoetry.com/)
-
-[Talita Zaragoza](http://www.talitazaragoza.com/), _Artist_ 
-
-James Miller and Juliette Cezzar of [Creative Publishing and Critical Journalism](http://creative-publishing.org/)
 
 
 ...
