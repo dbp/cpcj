@@ -11,7 +11,7 @@ permalink: /ednote/
 
 ---
 
-![Logo](/otherimages/cpcjicon.png)
+![Logo](/img/otherimages/cpcjicon.png)
 
 Our project name, Media Landscape, is paradoxical. One definition of a landscape is mere scenery, to be looked at like a pastoral painting in a museum; pretty but inaccessible. Yet, from where we stand, in New York City in May 2015, nothing could be further from the truth about the current state of media. Never before has the media industry elicited so much user participation. “Users” are encouraged to share, like, tweet, annotate and engage all day, every day, and have effectively been transformed from passive consumers into active producers of content. <br /> <br /> 
 
