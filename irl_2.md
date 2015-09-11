@@ -12,7 +12,7 @@ permalink: /irl/
 
 <iframe src="https://player.vimeo.com/video/130199067" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<br><br><p><a href="https://vimeo.com/130199067">CPCJ Media Launch Event | The New Republic Discussion Panel @ Verso Books</a> from <a href="https://vimeo.com/ramonpebenito">Ramon Jacinth PeBenito</a> on <a href="https://vimeo.com">Vimeo</a>. </br> </br></div>
+<br><br><p><a href="https://vimeo.com/130199067">CPCJ Media Launch Event | The New Republic Discussion Panel @ Verso Books</a> from <a href="https://vimeo.com/ramonpebenito">Ramon Jacinth PeBenito</a> on <a href="https://vimeo.com">Vimeo</a>. </br> </br>
 
 ---
 
@@ -32,6 +32,6 @@ Interviewed by CPCJ's publishing team, Gabriel Clermont, Sara Louise Wilkins-Kri
 <a href="https://www.facebook.com/media/set/?set=a.662396070532115.1073741831.644537212318001&type=3" target="_blank">View photos from the event here.</a>
 <br>
 
-
+</div>
 
 
