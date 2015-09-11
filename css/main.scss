@@ -450,8 +450,8 @@ on the left side; since we want the L to align, we have to pad... */
     }
     
   img {
-    display: block;
-    margin: 0 auto;
+    position: relative;
+    
   }  
 
   }
