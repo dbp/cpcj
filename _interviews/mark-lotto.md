@@ -15,6 +15,11 @@ img: logos/logo-medium-matter.jpg
 on being in the intersection of user generated content and old school
 journalism, and being more like The Clash than the symphony.</p>
 
+_UPDATE:_<em> Since this interview was conducted, Medium founder Ev Williams has stated that "Medium is not a publishing tool. It’s a network. A network of ideas that build off each other. And people." Mark Lotto explains what Williams means in his own words here. 
+- *Editors*</em?
+
+---
+
 In his
 [introduction to Matter](https://medium.com/matter/what-is-matter-4b6fd9918615),
 editor-in-chief Mark Lotto calls it a magazine for a generation that
