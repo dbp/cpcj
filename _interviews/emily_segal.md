@@ -13,7 +13,7 @@ img: logos/logo-g.jpg
 ---
 
 
-<p class="dek"> A story on contemporary branding and online youth culture.</p>
+<p class="dek">With rapidly changing characteristics and demands of consumers, media platforms are constantly hunting for new ways to interact with and sell news, information and advertisements. New York-based media companies K-Hole and Genius have come up with unconventional ways of branding and marketing. In this interview, Genius’s Creative Director, Emily Segal, talks about why serial commenting needs to be changed; how she sees trend forecasting as weird and funny; and what it means to annotate the Internet.</p>
    
 When the internet became a structural part of society, the publishing industry started shaking and moving fast in order to keep up with new forms of communication. In this digital-native, post-internet landscape, data of all kinds is instantaneously collected, shared, remixed and re-uploaded; this is the internet’s production line, constantly redefining itself in a hyper globalized culture.
 
