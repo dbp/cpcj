@@ -10,10 +10,10 @@ x: 850
 y: 675
 img: logos/logo-ref29.jpg
 --- 
-  
-<p class="dek">Refinery29 is the epitome of combining advertisement and information with the editorial. Fashion Features Director of Refinery 29, Connie Wang, has no pretensions about what the organization stands for. She talks frankly about how their ever-increasing database gives them a great opportunity to advertise and helped them become a $290 million company in a decade's time.</p>
 
-***This interview took place April, 2015.***
+***April, 2015***
+
+<p class="dek">Refinery29 is the epitome of combining advertisement and information with the editorial. Fashion Features Director of Refinery 29, Connie Wang, has no pretensions about what the organization stands for. She talks frankly about how their ever-increasing database gives them a great opportunity to advertise and helped them become a $290 million company in a decade's time.</p>
 
 In 2005, Justin Stefano and Philippe von Borries founded Refinery29, a New York guide that promoted independent brands within the design, music, and fashion industries. Stefano and von Borries had never worked in fashion before and took a risk by quitting their jobs in law and politics and jumping directly into the online media market. What evolved was a leading example of how directing sales on content sites can be a legitimate way to sustain media. Their company has recently undergone significant changes and now functions as a lifestyle, fashion, and commerce company whose brand is so strong that it is able to survive on ad sales, which is something that other media companies are struggling to do. 
 
