@@ -11,6 +11,8 @@ y: 300
 img: logos/logo-nyt-tmag.jpg
 ---
 
+***March, 2015***
+
 <p class="dek">It’s always interesting to feature the up-and-comers, the movers, the shakers, the geniuses, and the wunderkinds that are making an indelible mark on an expanding, rapidly transforming media landscape that, not too long ago, belonged to a few storied media institutions. But the big names cannot be forgotten easily; they might not be driving the change, but they certainly need to react to it. What kind of strategies are the-old institution that just went through a major redesign and is still in the process of diversifying its presence on various platforms while still retaining the print flagship.</p>
 
 The last decade has not been easy for the *New York Times*. The revered Gray Lady of print, used to a slower pace of news where her voice reigned supreme, has been shaken up by the fast-moving, ever-evolving digital revolution. In the past years it’s undergone two abrupt Editor-in-Chief changes ([Keller](http://www.washingtonpost.com/lifestyle/style/bill-keller-to-step-down-as-new-york-times-executive-editor/2011/06/02/AGML7HHH_story.html)-[Abramson](https://twitter.com/smisarah/status/76347458149548032)-[Baquet](http://publiceditor.blogs.nytimes.com/2015/05/13/one-year-later-11-questions-for-dean-baquet/?_r=0) and has had to buy out or lay off a significant portion of their staff---21 layoffs and 57 buyouts---as recently as December 2014.
