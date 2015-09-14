@@ -12,7 +12,7 @@ img: logos/logo-on.jpg
 ---
 
 
-<p class="dek">Living between multiple countries is a skill that foreign journalists need to acquire. Brazilian journalist Guga Chacra, with his enthusiasm for politics in the Middle East, his own country and his love for New York, seemed to slip into this skill effortlessly. He talks about why he doesn't prefer to work in print journalism anymore and despite having to sometimes do breaking news coverage over several hours for the broadcast media, why that is a better option for him.</p>
+<p class="dek">Living between multiple countries is a skill that foreign journalists need to acquire. Brazilian journalist Guga Chacra, with his enthusiasm for politics in the Middle East, his own country and his love for New York seemed to slip into this skill effortlessly. He talks about why he doesn't prefer to work in print journalism anymore and despite having to sometimes do breaking news coverage over several hours for the broadcast media, why that is a better option for him.</p>
    
 At some point on a cold March evening, CPCJ decided that our publication would interview people making a difference in our contemporary media landscape. I quickly realized who I wanted to meet with. I wanted someone I could connect with over more than the media industry; someone who I could talk to about sports and culture, origins and family. It didn't take me long to reach out to Guga Chacra, the Brazilian journalist based (for more than 10 years) in New York City, whose Twitter had already been chosen as one of the most influential in Latin America by Foreign Policy Magazine in 2011.
 
