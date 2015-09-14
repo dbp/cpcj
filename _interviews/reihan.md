@@ -6,8 +6,8 @@ subtitle: My Lunch with Reihan
 subject: Reihan Salam
 role: Public Intellecutal
 byline: By Shea Sweeney
-x: 475
-y: 650
+x: 350
+y: 600
 img: logos/logo-portrait-play.jpg
 ---
 
