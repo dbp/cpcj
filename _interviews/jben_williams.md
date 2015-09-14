@@ -11,7 +11,7 @@ y: 450
 img: logos/logo-ny-mag.jpg
 ---
 
-<p class="dek">Ben Williams discusses how *New York Magazine*'s prowess on the Internet expanded the brand beyond five boroughs and made its voice global.</p>
+<p class="dek">Ben Williams discusses how <em>New York Magazine's</em> prowess on the Internet expanded the brand beyond five boroughs and made its voice global.</p>
    
 Now more than ever, technology has connected us to one another, but what can go missing as a result is our unique and authentic voice, which is easily drowned out by thousands of others on the Internet. *New York Magazine* is a publication that has managed to have its cake and eat it too---they have maintained their distinctively New York character while growing their readership nationally. *New York Magazine*’s expansion from a local print publication to a national multimedia entity was seamless enough for *Washington Post* media critic Howard Kurtz to remark, "The nation's best and most-imitated city magazine is often not about the city---at least not in the overcrowded, traffic-clogged, five boroughs sense." This transition was no easy feat. I sat down with Ben Williams, *New York Magazine*’s Online Editorial Director, who told me, “It’s called *New York Magazine*. It always had the identity of a local publication, but on the Internet you don’t want to limit yourself to just the audience in your city.”
 
