@@ -7,7 +7,7 @@ subject: Victoria Taylor
 role: reddit, Director of Talent 
 byline: By Sara Wilkins
 x: 200
-y: 500
+y: 420
 img: logos/logo-reddit.jpg
 
 ---
