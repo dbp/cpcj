@@ -33,6 +33,19 @@ a {
     text-decoration: none;
     color: white;
   }
+  
+  .titleimage {
+    float: left;
+    width: 400px;
+    height: 200px;
+    background-image: url("/img/otherimages/medialandscape-info-2.png");
+    background-size: contain;
+     a {
+      display: block;
+      width: 400px;
+      height: 200px;
+    }
+    
   .n {
     font-size: 12px;
     letter-spacing: 0px;
