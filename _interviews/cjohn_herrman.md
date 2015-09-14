@@ -7,7 +7,7 @@ subject: John Herrman
 role: Editor
 byline: By Gabriel Clermont
 x: 680 
-y: 100
+y: 75
 img: logos/logo-theawl.jpg
 ---
 
