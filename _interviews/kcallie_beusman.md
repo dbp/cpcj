@@ -7,7 +7,7 @@ subject: Callie Beusman
 role: Broadly, Executive Editor
 byline: By Chloe Gold and Cerise Steel
 x: 950
-y: 300
+y: 370
 img: logos/logo-vice.jpg
 ---
 
