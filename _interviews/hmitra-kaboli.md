@@ -3,7 +3,8 @@ layout: interview
 short: The Heart
 title: Let's Talk About Sex
 subtitle: Podcasts make a comeback
-subject: The Heart, host Mitra Kaboli 
+subject: Mitra Kaboli 
+role: Host of The Heart
 byline: By Andreas Eckhardt-Læssøe
 x: 400
 y: 479
