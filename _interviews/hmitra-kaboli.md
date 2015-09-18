@@ -35,7 +35,7 @@ In other words; sex is still not kosher on national public radio. But I’m gett
    
 ***Mitra Kaboli.*** My name is Mitra Kaboli. I am a Senior Producer...*the* Senior Producer, for The Heart, which is a podcast about love and intimacy and bodies and desire and things like that. I live in New York. I'm Canadian but I've lived most of my life in the US. I'm an aquarius. [Laughs] Sorry.
 
-***Andreas Eckhardt-Læssøe*** _Do you believe in astrology?_
+***Andreas Eckhardt-Læssøe*** <strong>_Do you believe in astrology?_</strong> 
 
 A little bit. It's pretty fun to believe in it. I'm gonna be honest, but I'm not die hard.
    
