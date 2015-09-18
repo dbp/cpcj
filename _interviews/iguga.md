@@ -31,43 +31,51 @@ When asked if he has ever considered working for local publications, he was dire
 
 At this point I started what I’m calling the Q&A, but he had so much to say that I quickly realized I had to put away my interview questions and just listen.  
 
-**Juliana Bechara.** _You moved to NYC 10 years ago to attend Columbia. How do you describe your trajectory and what brought you this far in NYC?_
+**Juliana Bechara.** _<bold>You moved to NYC 10 years ago to attend Columbia. How do you describe your trajectory and what brought you this far in NYC?</bold>_
 
 **Guga Chacra.** My father went to medical school in the US, and living here was a dream for me. After living in Buenos Aires as a Foreign Correspondent for *Folha de São Paulo*, one of the leading local newspapers, I decided to apply for a Master's program. Between Washington, Beirut, and NY, I decided to come to NY.
   
-_Do you have a daily routine for consuming media?_
+_<bold>Do you have a daily routine for consuming media?</bold>_
 
 Yes. I wake up and I read the *NY Times* briefing. Then I take my dog for a walk, get breakfast, and then I read the *NY Times*---the whole thing. 
 
+---
+
 <em>On his smartphone Chacra showed me all the apps he uses. I go over: Al Jazeera, Associated Press, BBC, Business Insider, Huffington Post, the most read from *NY Times*, Reuters and *Washington Post*. He also gets some briefings from Brazilian newspapers.</em>
+
+---
 
 On the Internet I look into Vox for its dynamism, *the Atlantic*, daily essays from the *New Yorker*, and then I check the happenings in Brazil. Al Jazeera America is always on in my TV; I really enjoy the way they cover different regions of the world. It’s also a good thermometer for me to talk about Yemen, Syria, and Iraq---they have great correspondents and a very accurate journalistic coverage.
 
-_You cover issues of great relevance worldwide. Some readers and spectators are extremists and seem to always be ready to critique what you say. Others simply listen---after all, you facilitate their understanding of complex political situations. Who are the people consuming and following your work?_
+_<bold>You cover issues of great relevance worldwide. Some readers and spectators are extremists and seem to always be ready to critique what you say. Others simply listen---after all, you facilitate their understanding of complex political situations. Who are the people consuming and following your work?</bold>_
 
 I have two profiles of people watching and reading me: those with a deep interest in international politics and those who see me on television---they are completely different. The first group will read me and eventually see me on television. The second will know me from television, but won't read me.
 
 I use Facebook as a tool as well. I don’t have a page (by the time you read this interview, though, he will already have migrated to a professional page). I accepted everyone who wanted to be friends with me until I reached the maximum of 5,000 friends. It’s a tremendously valid platform to engage with the broader public. I learned how to make my comments become trend topics and I also got invited for a new project that Facebook and *Estadão* are developing together, but I can’t speak of it yet.
 
+---
+
 <em>Although Chacra wouldn’t go into detail, my guess is that Facebook is in talks with *Estadão* to publish their news on the Facebook platform. This is part of a new effort by Facebook to get all web traffic and data from publications directly on Facebook. Facebook’s rumored push for control over digital content production also follows similar features like Snapchat’s Discover platform, which also hosts news publications inside its app. It's a huge shift for any publication that share content on Facebook.</em>
 
-_The interaction between the writer and reader that is made possible through social media: how do you oversee and approach it?_
+---
+
+_<bold>The interaction between the writer and reader that is made possible through social media: how do you oversee and approach it?</bold>_
  
 What bothers me most is people “putting words in my mouth.” For instance: if there’s a terrorist act such as the one in Paris, against *Charlie Hebdo*, I will strongly condemn such terrorist act, I think that is monstrous. Nevertheless, I would never generalize or condemn Muslims. I’m Brazilian, but I don’t respond for all Brazilians. This is what diversity is. 
 
 There are extremists everywhere: fellow writers and columnists, readers and spectators. Once you are a public figure and you express your opinion, you will certainly find people arguing against something. I have always been guided through, by Globo News and *Estadão*, not to confront these people because all they want is to get attention.
 
-_What about sensationalist journalism during breaking news? I often get annoyed with such long coverage on issues like the Germanwings crash, where you see a network covering, non-stop, a tragedy, even when there’s nothing new to be said._
+_<bold>What about sensationalist journalism during breaking news? I often get annoyed with such long coverage on issues like the Germanwings crash, where you see a network covering, non-stop, a tragedy, even when there’s nothing new to be said.</bold>_
 
 There’s something called fringe, which Fox News does a lot. It’s a mix of science fiction and storytelling that investigates a series of unexplained facts. There, they really need to be cautious. Journalists have to be objective so not to generate the wrong buzz around happenings.
 
 On the other hand we have the breaking news---CNN is an expert---that is perhaps when you noticed the Germanwings coverage. They have to be there talking over the crash. It generates audience. They invite specialists from different areas to talk about the matter and the host has to be there, even though there’s nothing to be done. Anderson Cooper and Wolf Blitzer are serious and respected journalists. Still, they have to cover breaking news. When the Boston Marathon bombing happened in 2013, I had to stay on air for seven hours. It was breaking news, and Globo News needed to keep track minute by minute.
 
-_In your perception, what does a publication have to be able to do in order to captivate people’s attention? How do you apply it in your own work?_
+_<bold>In your perception, what does a publication have to be able to do in order to captivate people’s attention? How do you apply it in your own work?</bold>_
 
 You have to be didactic and dynamic. Vox is a good example of this. It’s important to state how different written publications are from television. The first one you have to contextualize the reader: you have to write as if it was the first time the person was reading about the subject matter. For the latter, you have more time to explain and go through some topics. In my blog, I often use a Q&A style that works as a storytelling device when approaching subjects for stories on Yemen, Syria, or ISIS.
 
-_How do you describe the American media landscape?_
+_<bold>How do you describe the American media landscape?</bold>_
   
 First of all, printed journalism is at its end. Some will succeed migrating to the web---publications like *NY Times* and the *Wall Street Journal*, because they are national mediums that people will continue to read in whatever platform they find.
 
