@@ -14,8 +14,10 @@ img: logos/logo-reddit.jpg
 
 ***April, 2015***
 
-***Update:*** <em>A few months after this interview took place, <a href="http://bits.blogs.nytimes.com/2015/07/13/details-emerge-about-victoria-taylors-dismissal-at-reddit/" target="_blanl">Victoria Taylor left reddit</a> due to a controversy over the site’s popular AMA (Ask Me Anything) forum, which Taylor was responsible for organizing. Her dismissal caused many of the voluntary moderators at reddit to protest <a href="http://www.nytimes.com/2015/07/04/technology/reddit-moderators-shut-down-parts-of-site-over-executives-dismissal.html" target="_blank">by shutting down hundreds of sub-forums on the site.</a> <br>
-- Editors</em>
+---
+
+***Update:*** _<bold>A few months after this interview took place, <a href="http://bits.blogs.nytimes.com/2015/07/13/details-emerge-about-victoria-taylors-dismissal-at-reddit/" target="_blanl">Victoria Taylor left reddit</a> due to a controversy over the site’s popular AMA (Ask Me Anything) forum, which Taylor was responsible for organizing. Her dismissal caused many of the voluntary moderators at reddit to protest <a href="http://www.nytimes.com/2015/07/04/technology/reddit-moderators-shut-down-parts-of-site-over-executives-dismissal.html" target="_blank">by shutting down hundreds of sub-forums on the site.</a></bold> <br>
+- Editors_
 
 ---
 
