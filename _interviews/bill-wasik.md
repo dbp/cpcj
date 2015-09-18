@@ -120,6 +120,6 @@ Yeah, I don’t believe in doom. I believe that people need what we do, they wan
 
 Bill Wasik tweets at <a href="https://twitter.com/billwasik" target="_blank">@billwasik</a>
 
-Paula Duran tweets at <a href="https://twitter.com/pauladuranr" target="_blank"@pauladuranr</a>
+Paula Duran tweets at <a href="https://twitter.com/pauladuranr" target="_blank">@pauladuranr</a>
 
 <em>Edited by Andreas Eckhardt-Læssøe</em>
