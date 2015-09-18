@@ -50,11 +50,11 @@ _<bold>People say that “Twitter is over,” that Facebook is regaining momentu
                                                                                    
 Mobile. It’s what everybody needs to think about, both from a revenue perspective, in terms of how you can make money off it, and from a reading experience in terms of individual stories and how to give readers the best possible experience. We have to understand what mobile means in terms of how readers bounce from story to story, how much of the mobile reading experience is going to happen in browsers versus apps and whether those apps are going to be our apps or whether they are going to be Facebook’s app. Those are the huge issues that we have to be thinking about right now and there’s a lot that we don’t know yet about how it’s going to play out.
 
-_<bold>Shifting gears, let’s talk about *NYT Magazine*. It’s a 119-year-old, world-famous magazine, delivered with the *Sunday Times*. A new editorial team, a new 2015 design for the magazine. What was the motivation behind the redesign?</bold>_
+_<bold>Shifting gears, let’s talk about NYT Magazine. It’s a 119-year-old, world-famous magazine, delivered with the *Sunday Times*. A new editorial team, a new 2015 design for the magazine. What was the motivation behind the redesign?</bold>_
 
 Magazines should be redesigned, not every year necessarily, but part of the pleasure of the magazine as a mode of communication is that the people who run them are always thinking about how to make them more beautiful, more relevant. Even if there hadn’t been a new Editor-in-Chief, and I came in with him, I personally believe the magazine was due for a redesign simply because I think that magazines should redesign, its part of the pleasure of the craft.
  
-_<bold>Was there something specific you wanted to do with *NYT Magazine*?</bold>_
+_<bold>Was there something specific you wanted to do with NYT Magazine?</bold>_
  
 We had a different tone in mind for the magazine; we wanted it to be a more literary magazine, and a more intellectual magazine, both on its own terms and also the way we thought it could fit better into the NYT as a whole. We wanted to create a space within the Sunday NYT that is a counterpoint, an enrichment, or a balance with everything else that’s in that publication. Magazines are “voicier,” and we want to emphasize that.  One of the changes that we’re trying to pull off with the magazine is to create a space where voicy writing---both in the kind of more old-fashioned literary sense, but also in this new-fangled, Internety voice type sense, intemperate voices, with a wearing the point of view on the sleeve—can both have a home.
 
