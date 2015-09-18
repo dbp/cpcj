@@ -35,11 +35,11 @@ In other words; sex is still not kosher on national public radio. But I’m gett
    
 ***Mitra Kaboli.*** My name is Mitra Kaboli. I am a Senior Producer...*the* Senior Producer, for The Heart, which is a podcast about love and intimacy and bodies and desire and things like that. I live in New York. I'm Canadian but I've lived most of my life in the US. I'm an aquarius. [Laughs] Sorry.
 
-***Andreas Eckhardt-Læssøe*** <bold><em>Do you believe in astrology?</bold></em>
+***Andreas Eckhardt-Læssøe*** _<bold>Do you believe in astrology?</bold>_
 
 A little bit. It's pretty fun to believe in it. I'm gonna be honest, but I'm not die hard.
    
-<bold><em>You dabble</bold></em>
+_<bold>You dabble</bold>_
    
 I dabble.
 
@@ -49,7 +49,7 @@ I dabble.
 
 ---
    
-<bold><em>Could you tell me how you got into The Heart?</bold></em>
+_<bold>Could you tell me how you got into The Heart?</bold>_
    
 When Kaitlin (ed. Kaitlin Prest, Host and Creative Director of The Heart) and I met, we were both in Montreal going to school there, we were both working at this restaurant called Roomy. I worked in the kitchen and Kaitlin was a waitress, that's how we met. I always knew that she worked for this show called Audio Smut, even though I didn't know much about it. One day, I think, I sort of outed myself as being a fellow weirdo... even though at the restaurant it was a secret. I was a secret weirdo.
    
