@@ -12,14 +12,14 @@ img: logos/logo-reddit.jpg
 
 ---
 
-***April, 2015***
-
 ---
 
 ***Update:*** _A few months after this interview took place, <a href="http://bits.blogs.nytimes.com/2015/07/13/details-emerge-about-victoria-taylors-dismissal-at-reddit/" target="_blanl">Victoria Taylor left reddit</a> due to a controversy over the site’s popular AMA (Ask Me Anything) forum, which Taylor was responsible for organizing. Her dismissal caused many of the voluntary moderators at reddit to protest <a href="http://www.nytimes.com/2015/07/04/technology/reddit-moderators-shut-down-parts-of-site-over-executives-dismissal.html" target="_blank">by shutting down hundreds of sub-forums on the site.</a><br>
 - Editors_
 
 ---
+
+***April, 2015***
 
 <p class="dek">It's a big year for reddit. Next month will mark ten years since the company first launched its website and quickly became one of the world’s most popular online communities with millions of daily users. I met with reddit's Director of Talent, Victoria Taylor, to discuss why “The Front Page of the Internet” is still going strong after a decade---and why they recently decided to enter new media territory.</p>
 
