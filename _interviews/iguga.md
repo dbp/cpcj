@@ -4,7 +4,7 @@ short: Globo News
 title: From São Paulo to New York
 subtitle: The future of foreign correspondence
 subject: Guga Chacra
-role: Correspondent and News Commentator
+role: Foreign Correspondent
 byline: By Juliana Bechara 
 x: 50
 y: 650
@@ -30,6 +30,8 @@ Chacra loves the city. “I like it because I live the whole city. Its restauran
 When asked if he has ever considered working for local publications, he was direct: “I’m a journalist and I write. Unless you are a native speaker or have been to English-speaking schools, it is very hard to add “the special flavor” to your written work. It is different from writing papers for school.”
 
 At this point I started what I’m calling the Q&A, but he had so much to say that I quickly realized I had to put away my interview questions and just listen.  
+
+---
 
 **Juliana Bechara.** _<bold>You moved to NYC 10 years ago to attend Columbia. How do you describe your trajectory and what brought you this far in NYC?</bold>_
 
@@ -87,9 +89,9 @@ Worldwide, people are looking at niche news. This is something I learned: it is 
 
 ---
 
-Chacra further explained his ideas and understanding of hybrid people, of time and technology, of how we are seen as an extremely technological society. Whatever we do now in such high-tech era will eventually build our future selves. Social media works as a form of trademark. Once you feed it you will always be that person that posted such-and-such a thing.
+<em>Chacra further explained his ideas and understanding of hybrid people, of time and technology, of how we are seen as an extremely technological society. Whatever we do now in such high-tech era will eventually build our future selves. Social media works as a form of trademark. Once you feed it you will always be that person that posted such-and-such a thing.</em>
 
-After an amazing conversation at the restaurant The Red Farm, we walked up the rainy streets of Upper West Side while Chacra started describing his curiosities and possible artificial intelligence scenarios that we may encounter in the near future. Then he realized he had forgotten his backpack and coat at the restaurant. With a finished interview but an unfinished conversation, I was just as lost in thought. I continued my way back home. We are at a unique time where the Internet and social media gives people like Chacra the ability to connect with huge audiences and shed light on important issues. 
+<em>After an amazing conversation at the restaurant The Red Farm, we walked up the rainy streets of Upper West Side while Chacra started describing his curiosities and possible artificial intelligence scenarios that we may encounter in the near future. Then he realized he had forgotten his backpack and coat at the restaurant. With a finished interview but an unfinished conversation, I was just as lost in thought. I continued my way back home. We are at a unique time where the Internet and social media gives people like Chacra the ability to connect with huge audiences and shed light on important issues. </em>
 
 ---
 Guga Chacra tweets at <a href="https://twitter.com/gugachacra" target="_blank">@gugachacra</a>
