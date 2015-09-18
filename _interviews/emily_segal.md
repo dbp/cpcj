@@ -12,6 +12,7 @@ y: 300
 img: logos/logo-g.jpg
 ---
 
+***April, 2015***
 
 <p class="dek">With rapidly changing characteristics and demands of consumers, media platforms are constantly hunting for new ways to interact with and sell news, information and advertisements. New York-based media companies K-Hole and Genius have come up with unconventional ways of branding and marketing. In this interview, Genius’s Creative Director, Emily Segal, talks about why serial commenting needs to be changed; how she sees trend forecasting as weird and funny; and what it means to annotate the Internet.</p>
    
