@@ -10,28 +10,30 @@ y: 479
 img: logos/logo-radiotopia.jpg
 ---
 
+***March, 2015***
+
 <p class="dek">A talk with The Heart’s Mitra Kaboli on sex on and off the air, the whiteness of public radio, being a freelancer and the rising podcast optimism.</p>
    
-“Let’s talk about sex, baby. Let’s talk about you and me.” So sang the three women of Salt-N-Pepa in 1990. It could also be a tagline for <em>The Heart</em>.
+“Let’s talk about sex, baby. Let’s talk about you and me.” So sang the three women of Salt-N-Pepa in 1990. It could also be a tagline for The Heart.
 
-The Heart is a podcast that shows why radio is so important. Radio brings things up close and personal; headphones plugs you into another person’s voice, telling their story as if it is coming from inside your own head, and in turn possibly making the ear the most empathetic organ. The Heart also follows the radio revolution that is being carried forward by technological developments that make radio programs easier to produce and distribute. Not that it could, should, or ever would replace the news, but shows like The Heart provide an alternate narrative to corporate media’s twenty-four hour news cycle. It’s also fun. And sexy.
+The Heart is a podcast that shows why radio is so important. Radio brings things up-close and personal; headphones plug you into another person’s voice, telling their story as if it is coming from inside your own head, and in turn possibly making the ear the most empathetic organ. The Heart also follows the radio revolution that is being carried forward by technological developments that make radio programs easier to produce and distribute. Not that it could, should, or ever would replace the news, but shows like The Heart provide an alternate narrative to corporate media’s 24-hour news cycle. It’s also fun. And sexy.
 
-But let’s back up a little bit. The Heart is part of the independent radio network [Radiotopia](https://www.kickstarter.com/projects/1748303376/radiotopia-a-storytelling-revolution) that started in 2014 when Roman Mars, already a Kickstarter guru for his own show 99% Invisible, set out to raise money for Radiotopia. On November 14, 2014, they reached $620,412 with a total of 21,808 backers, proving that what Mars and his fellow showrunners were doing something right. 
+But let’s back up a little bit. The Heart is part of the independent radio network [Radiotopia](https://www.kickstarter.com/projects/1748303376/radiotopia-a-storytelling-revolution) that started in 2014 when Roman Mars, already a Kickstarter guru for his own show, 99% Invisible, set out to raise money for Radiotopia. On November 14, 2014, they reached $620,412 with a total of 21,808 backers, proving that Mars and his fellow showrunners were doing something right. 
 
-The Heart isn’t even a totally new show; it used to be a monthly college radio show called Audio Smut. The Heart’s first episode actually unfurled on the air in Montreal back in 2008. Since then a lot has happened. The radio show has not only grown up, so have the people making it — or if they haven’t, at least they have grown to be more honest about their insecurities and feelings of inadequacy. The Heart is all about that honesty. Queerness, kinks, and emotions — they tell their listeners about all of it on their show, and they’re audibly excited about it. It’s the same excitement they inspire in their interview subjects: whether their story is about taking a shit on another man’s chest, having an orgasm while giving birth, or just meeting someone on the subway and falling in love for the afternoon. In short, The Heart shares stories that haven’t had a place to be told before. Case and point, the name change: even though smut is not a dirty word, it still can’t be uttered on PRX (Public Radio International), so they changed it...
+The Heart isn’t even a totally new show; it used to be a monthly college radio show called Audio Smut. The Heart’s first episode actually unfurled on the air in Montreal back in 2008. Since then a lot has happened. Not only has the radio show grown up---so have the people making it. (Or if they haven’t, at least they have grown to be more honest about their insecurities and feelings of inadequacy.) The Heart is all about that honesty. Queerness, kinks, and emotions---they tell their listeners about all of it on their show, and they’re audibly excited about it. It’s the same excitement they inspire in their interview subjects: whether their story is about taking a shit on another man’s chest, having an orgasm while giving birth, or just meeting someone on the subway and falling in love for the afternoon. In short, The Heart shares stories that haven’t had a place to be told before. Case and point, the name change: even though smut is not a dirty word, it still can’t be uttered on PRX (Public Radio International), so they changed it...
 
 ---
 
 > They said: “Actually you can't say Audio Smut on the air.” 
 > Essentially they gave us an ultimatum. 
-> We thought, "if it means that we can get paid a little bit 
+> We thought, "If it means that we can get paid a little bit 
 > to do what we want to do and have a wider reach, what's the problem?”
 
 ---
    
 In other words; sex is still not kosher on national public radio. But I’m getting ahead of myself. Let me do it like they do on the radio and let Mitra introduce herself:
    
-***Mitra Kaboli.*** My name is Mitra Kaboli. I am a senior producer, <em>the</em> senior producer, for The Heart, which is a podcast about love and intimacy and bodies and desire and things like that. I live in New York. I'm Canadian but I've lived most of my life in the US. I'm an aquarius. [Laughs] Sorry.
+***Mitra Kaboli.*** My name is Mitra Kaboli. I am a Senior Producer...*the* Senior Producer, for The Heart, which is a podcast about love and intimacy and bodies and desire and things like that. I live in New York. I'm Canadian but I've lived most of my life in the US. I'm an aquarius. [Laughs] Sorry.
 
 ***Andreas Eckhardt-Læssøe*** _Do you believe in astrology?_
 
@@ -40,16 +42,20 @@ A little bit. It's pretty fun to believe in it. I'm gonna be honest, but I'm not
 _You dabble_
    
 I dabble.
+
+---
    
-<em>Mitra has long brown hair with a blond colored bit around her right ear; she’s wearing a zebra print shirt. We’re sitting at a table in a café in Brooklyn not far from where Mitra works. Before I started recording the interview she told me that she drives by this place all the time, but she thought it was a kitchenware shop. I can’t figure out why she would think that, so I just laugh nervously. My recorder fumbles out of my bag along with its blue wind-hat, that looks like a smurf’s wig and is an easy ice-breaker in every interview I’ve ever been in. It goes over well — when Mitra says she likes it, I’m close to giving it to her as a gift right then and there.</em>
+<em>Mitra has long brown hair with a blond-colored bit around her right ear; she’s wearing a zebra print shirt. We’re sitting at a table in a café in Brooklyn not far from where Mitra works. Before I started recording the interview she told me that she drives by this place all the time, but she thought it was a kitchenware shop. I can’t figure out why she would think that, so I just laugh nervously. My recorder fumbles out of my bag along with its blue wind-hat, that looks like a smurf’s wig and is an easy ice-breaker in every interview I’ve ever been in. It goes over well---when Mitra says she likes it, I’m close to giving it to her as a gift right then and there.</em>
+
+---
    
 _Could you tell me how you got into The Heart?_
    
-When Kaitlin (ed. Kaitlin Prest, host and creative director of The Heart) and I met, we were both in Montreal going to school there, we were both working at this restaurant called Roomy. I worked in the kitchen and Kaitlin was a waitress, that's how we met. I always knew that she worked for this show called Audio Smut, even though I didn't know much about it. One day, I think, I sort of outed myself as being a fellow weirdo... even though at the restaurant it was a secret. I was a secret weirdo.
+When Kaitlin (ed. Kaitlin Prest, Host and Creative Director of The Heart) and I met, we were both in Montreal going to school there, we were both working at this restaurant called Roomy. I worked in the kitchen and Kaitlin was a waitress, that's how we met. I always knew that she worked for this show called Audio Smut, even though I didn't know much about it. One day, I think, I sort of outed myself as being a fellow weirdo... even though at the restaurant it was a secret. I was a secret weirdo.
    
 _How are you a secret weirdo?_
    
-I was volunteering for a publication that was a smut zine. It was art porn, artsy porn, the fact that I was queer and my own personal beliefs... I had to keep all of that a secret. The restaurant was pretty traditional ideologically. It was run by Sufis, the guy that was my boss was pretty devout. I couldn't really be myself. I never talked, I was always very quiet. Then Kaitlin and I ran into each other on the street one day and had a candid conversation. She invited me down to the station one day. I sat in on the show and I was like “Yeah this is awesome, I wanna do this!”
+I was volunteering for a publication that was a smut zine. It was art porn, artsy porn, the fact that I was queer and my own personal beliefs... I had to keep all of that a secret. The restaurant was pretty traditional ideologically. It was run by Sufis, the guy that was my boss was pretty devout. I couldn't really be myself. I never talked, I was always very quiet. Then Kaitlin and I ran into each other on the street one day and had a candid conversation. She invited me down to the station. I sat in on the show and I was like, “Yeah, this is awesome, I wanna do this!”
    
 _So the show already existed? Audio Smut already existed?_
    
@@ -57,13 +63,13 @@ It already existed, it was on college radio at six pm once a month. So when we m
 
 _How many people are you working at The Heart now?_
    
-Me, Kaitlin, Samara, who's our associate producer and makes the shorts, the inbetweens, this woman Jen who does our web design, and this woman Megan does our social media posts along with Samara — so five. Then a bunch of other people, producers, and freelancers. 
+Me; Kaitli;, Samara, who's our Associate Producer and makes the shorts, the inbetweens; this woman Jen who does our web design; and this woman Megan does our social media posts along with Samara---so five. Then a bunch of other people, producers, and freelancers. 
    
 ---
 
 <em>The sun is shining through the big picture window making it feel more and more like a greenhouse. Meanwhile what looks like a band is waiting, noisily, for their lunch next to us. My water glass is empty, leaving me to drink the half cold cup of coffee, so that my left hand has something to do as my right hand is getting more and more clammy, and my arm more and more cramped from holding the recorder up to Mitra’s mouth. Mitra, however, looks completely unfazed by the warmth. The kitchen smells and the four guys are wearing black leather jackets. She doesn’t even break eye contact when the drummer bumps against her.</em>
 
-<em>When I meet someone who’s work I admire, I always figure that they have their life together. Even if the work is about the exact opposite, I always think that they’re exaggerating and are in fact living swanky lives without anxieties and feelings of inadequacy. I thought that when I met Mitra. The Heart exudes confidence, even when it covers insecurity or fragility, the honesty with which it’s told, to me is a form of confidence. So when Mitra started letting out some of the frustrations and worries about the life of a freelance radio producer, I was both relieved to hear I’m not the only one and also I was scared, because if she can’t make it, how will I ever?<em>
+<em>When I meet someone who’s work I admire, I always figure that they have their life together. Even if the work is about the exact opposite, I always think that they’re exaggerating and are in fact living swanky lives without anxieties and feelings of inadequacy. I thought that when I met Mitra. The Heart exudes confidence, even when it covers insecurity or fragility, the honesty with which it’s told, to me, is a form of confidence. So when Mitra started letting out some of the frustrations and worries about the life of a freelance radio producer, I was both relieved to hear I’m not the only one and also I was scared, because if she can’t make it, how will I ever?<em>
 
 ---
    
