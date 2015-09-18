@@ -27,7 +27,7 @@ When I met up with Beusman for coffee, I was expecting her to only talk about Br
 
 ***Callie Beusman.*** I really think that Jezebel changed the entire way that we process news, the way that we read news, and the way that we respond to news. Someone asked me “why do you think the Bill Cosby thing only got attention now?” I think it’s because of Jezebel and sites like Jezebel that people are starting to not victim-blame and take women seriously.  I think something like the Monica Lewinsky incident wouldn’t be able to happen again because it’s like there is this voice standing up for women’s interests and teaching women to be hyper-critical of media institutions in a way that they weren’t before.  
 
-_How did Jezebel get started?_
+_<bold>How did Jezebel get started?</bold>_
 
 Jezebel started as a reaction to women’s magazines. [The founders] went through women’s magazines and were like “what do we hate about this?” Women’s magazines were really different when it started, and now I think that they adopted a lot of Jezebel-like stuff.  Tracy, who’s my boss at VICE Women, was one of the founders of Jezebel, said that they were reading a magazine and the headline was “What He Thinks of Your O Face.” How insulting is that? You have to be perfect all the time, even when you’re having an orgasm?  So they wanted to interrogate the idea of aspirational women’s lifestyle magazines, and they changed the discourse in general.  
 
