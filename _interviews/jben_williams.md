@@ -4,7 +4,7 @@ short: New York Magazine
 title: New York State of Mind
 subtitle: A discussion with Ben Williams of NYMag.com 
 subject: Ben Williams
-role: New York Magazine, Editorial Director
+role: NY Magazine, Editorial Director
 byline: By Katie Parker Magyar
 x: 800
 y: 450
