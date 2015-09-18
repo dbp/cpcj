@@ -4,7 +4,7 @@ short: Genius
 title: The New Collective Intelligence
 subtitle: How Genius is changing raising the Internet's IQ
 subject: Emily Segal
-role: Creative Director
+role: Creative Director, Genius.com
 byline: By Cecilia Mezulic
 edited: By Troy O’Neill
 x: 100 
