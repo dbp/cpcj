@@ -15,7 +15,7 @@ img: logos/logo-medium-matter.jpg
 
 ---
 
-***UPDATE:***_On May 21, a few months after this interview was conducted, Medium founder Ev Williams <a href="https://medium.com/the-story/medium-is-not-a-publishing-tool-4c3c63fa41d2" target="_blank">has stated that</a> "Medium is not a publishing tool. It’s a network. A network of ideas that build off each other. And people." Mark Lotto explains the apparent shift in purpose and messaging <a href="https://medium.com/@lotto/what-s-going-on-at-medium-www-buzzfeed-com-c4d47c4bff15" target="_blank"> in his own words here.</a><br>_ 
+***UPDATE:*** _On May 21, a few months after this interview was conducted, Medium founder Ev Williams <a href="https://medium.com/the-story/medium-is-not-a-publishing-tool-4c3c63fa41d2" target="_blank">has stated that</a> "Medium is not a publishing tool. It’s a network. A network of ideas that build off each other. And people." Mark Lotto explains the apparent shift in purpose and messaging <a href="https://medium.com/@lotto/what-s-going-on-at-medium-www-buzzfeed-com-c4d47c4bff15" target="_blank"> in his own words here.</a><br>_ 
 - _Editors_ 
 
 ---
