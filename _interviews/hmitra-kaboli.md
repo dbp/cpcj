@@ -35,11 +35,11 @@ In other words; sex is still not kosher on national public radio. But I’m gett
    
 ***Mitra Kaboli.*** My name is Mitra Kaboli. I am a Senior Producer...*the* Senior Producer, for The Heart, which is a podcast about love and intimacy and bodies and desire and things like that. I live in New York. I'm Canadian but I've lived most of my life in the US. I'm an aquarius. [Laughs] Sorry.
 
-***Andreas Eckhardt-Læssøe*** <strong>_Do you believe in astrology?_</strong> 
+***Andreas Eckhardt-Læssøe*** <bold>_Do you believe in astrology?_</bold> 
 
 A little bit. It's pretty fun to believe in it. I'm gonna be honest, but I'm not die hard.
    
-_You dabble_
+<bold> _You dabble_</bold> 
    
 I dabble.
 
@@ -49,15 +49,15 @@ I dabble.
 
 ---
    
-_Could you tell me how you got into The Heart?_
+<bold> _Could you tell me how you got into The Heart?_</bold> 
    
 When Kaitlin (ed. Kaitlin Prest, Host and Creative Director of The Heart) and I met, we were both in Montreal going to school there, we were both working at this restaurant called Roomy. I worked in the kitchen and Kaitlin was a waitress, that's how we met. I always knew that she worked for this show called Audio Smut, even though I didn't know much about it. One day, I think, I sort of outed myself as being a fellow weirdo... even though at the restaurant it was a secret. I was a secret weirdo.
    
-_How are you a secret weirdo?_
+<bold> _How are you a secret weirdo?_</bold> 
    
 I was volunteering for a publication that was a smut zine. It was art porn, artsy porn, the fact that I was queer and my own personal beliefs... I had to keep all of that a secret. The restaurant was pretty traditional ideologically. It was run by Sufis, the guy that was my boss was pretty devout. I couldn't really be myself. I never talked, I was always very quiet. Then Kaitlin and I ran into each other on the street one day and had a candid conversation. She invited me down to the station. I sat in on the show and I was like, “Yeah, this is awesome, I wanna do this!”
    
-_So the show already existed? Audio Smut already existed?_
+<bold> _So the show already existed? Audio Smut already existed?_</bold> 
    
 It already existed, it was on college radio at six pm once a month. So when we moved to New York, we kept calling ourselves Audio Smut, but just the podcast, and we slowly cut off our ties with the radio station back in Montreal. Eventually, two maybe three years later, we changed the name, set ourselves apart, rebranded, and cut that tie for good.
 
