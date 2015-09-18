@@ -27,7 +27,7 @@ permalink: /about/
 
 [Paula Duran](#paula-duran-rehbein), _Business Manager_
 
-[Sara Louise Wilkins-Kristiansen](#sara-louise-wilkins-kristiansen), _Marketing Director_
+[Sara Wilkins](#sara-wilkins), _Marketing Director_
 
 
 
@@ -112,7 +112,7 @@ I’m a journalist dedicated to reporting and writing about politics, world affa
 
 
 
-## Sara Louise Wilkins Kristiansen
+## Sara Wilkins
 
 ### Marketing Director
 
