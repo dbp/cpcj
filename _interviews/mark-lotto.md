@@ -13,8 +13,10 @@ img: logos/logo-medium-matter.jpg
 
 ***April, 2015***
 
-<bold>_UPDATE:_</bold><em> On May 21, a few months after this interview was conducted, Medium founder Ev Williams <a href="https://medium.com/the-story/medium-is-not-a-publishing-tool-4c3c63fa41d2" target="_blank">has stated that</a> "Medium is not a publishing tool. It’s a network. A network of ideas that build off each other. And people." Mark Lotto explains the apparent shift in purpose and messaging <a href="https://medium.com/@lotto/what-s-going-on-at-medium-www-buzzfeed-com-c4d47c4bff15" target="_blank"> in his own words here.</a><br> 
-- *Editors*</em>
+---
+
+***UPDATE:***_On May 21, a few months after this interview was conducted, Medium founder Ev Williams <a href="https://medium.com/the-story/medium-is-not-a-publishing-tool-4c3c63fa41d2" target="_blank">has stated that</a> "Medium is not a publishing tool. It’s a network. A network of ideas that build off each other. And people." Mark Lotto explains the apparent shift in purpose and messaging <a href="https://medium.com/@lotto/what-s-going-on-at-medium-www-buzzfeed-com-c4d47c4bff15" target="_blank"> in his own words here.</a><br>_ 
+- _Editors_ 
 
 ---
 
@@ -64,19 +66,19 @@ and only took short breaks to eat his blueberry muffin.
 
 ---
 
-**Silje Kristine Andersen.** _When you’re navigating through Medium/Matter, it is difficult to know whether you are reading on Matter or Medium._
+**Silje Kristine Andersen.** _<bold>When you’re navigating through Medium/Matter, it is difficult to know whether you are reading on Matter or Medium.</bold>_
 
 **Mark Lotto.** It's hard.
 
-_Is it supposed to be difficult to distinguish them?_
+_<bold>Is it supposed to be difficult to distinguish them?</bold>_
 
 No, but the platform is still new and young, and the distinction between the publication and the platform is a lot more distinct than when I first started out. It is only going to get more distinct.
 
-_Are you comfortable with Matter being called a publication?_
+_<bold>Are you comfortable with Matter being called a publication?</bold>_
 
 Yeah.
 
-_Because there has been some talk whether it really is a publication or a platform._
+_<bold>Because there has been some talk whether it really is a publication or a platform.</bold>_
 
 Well, Medium itself is a platform in the sense that any single person
 can go on right now. But Matter is a magazine that is built on
@@ -89,7 +91,7 @@ months, and I think it feels distinct; my hope is that it feels even
 more distinct eight months from now, but yeah, I think of it as an
 actual magazine.
 
-_You are the Editor-in-Chief, right? What exactly does that entail?_
+_<bold>You are the Editor-in-Chief, right? What exactly does that entail?</bold>_
 
 What it entails is setting the vision for what the publication is
 going to be. What our direction is going to be. And then helping
@@ -113,7 +115,7 @@ standard, it's just becoming a very busy field, in a way that it
 wasn't when Medium started out.
 
 
-_What is your background? How did you come to Matter?_
+_<bold>What is your background? How did you come to Matter?</bold>_
 
 So I've come to Medium from *GQ*, I was there for two and a half
 years. Before that I was at the *Times* for five and a-half years, where
@@ -135,7 +137,7 @@ stories about culture and current events. Science remains part of it,
 but it is a much broader area of social issues in the world we all
 live in.
 
-_The people at Matter, are they mostly freelancers?_
+_<bold>The people at Matter, are they mostly freelancers?</bold>_
 
 We have three editors aside from me, two staff writers, and two art
 directors. All of them work full time. Then we largely run on
@@ -143,7 +145,7 @@ freelance writing. I think in the near future it will be a little less
 freelance and a little more regular voices. I don't really think you
 can build something entirely on freelance.
 
-_From what I've read, Matter is all about long-form journalism. However, there are many short articles on your page._
+_<bold>From what I've read, Matter is all about long-form journalism. However, there are many short articles on your page.</bold>_
 
 Yeah, I would say that long-form journalism is sort of one tool on our
 belt. In the sense that I think of what we do as big journalism, we
@@ -176,7 +178,7 @@ about craft or beautiful sentences.
 
 ---
 
-_What is Matter's position when it comes to traditional journalistic ethics?_
+_<bold>What is Matter's position when it comes to traditional journalistic ethics?</bold>_
 
 There are some rules of old-school journalism that we hold on to. All
 of our features are edited, top edited, fact checked, and copy
@@ -190,7 +192,7 @@ something on quality. You know what I mean? You can sell stuff that's
 good, and people respond to it. You can build things with seriousness,
 intention, and purpose, and people will respond to it.
 
-_Yeah, my first instinct when I started reading articles on Matter was “I can trust this”._
+_<bold>Yeah, my first instinct when I started reading articles on Matter was “I can trust this”.</bold>_
 
 That's good to know. What is interesting is that we recently did this
 experiment, because I was just sort of curious, with clickbait. We
@@ -199,7 +201,7 @@ clickbait-y headlines. The traffic went up, but people read less of
 the story, and they shared it less than when we did something that was
 really meaningful.
 
-_About clickbait. You have a system where you focus more on reading time instead---how long the reader spends on the article. In what way is that connected to how you pay your writers?_
+_<bold>About clickbait. You have a system where you focus more on reading time instead---how long the reader spends on the article. In what way is that connected to how you pay your writers?</bold>_
 
 Right now, we pay very traditional, competitive rates. Whether or not
 we might consider different payment models later is an open question.
@@ -213,30 +215,30 @@ people or a million people clicked on your story. You don't actually
 know anything about whether or not they actually liked it or read
 it. We track reading more than we track liking.
 
-_What about ads. There are no advertisements at Matter, are there?_
+_<bold>What about ads? There are no advertisements at Matter, are there?</bold>_
 
 No, but there will be ways of paying for ourselves soon enough.
 
-_So staying away from ads is a goal?_
+_<bold>So staying away from ads is a goal?</bold>_
 
 I think ultimately that is a question for my boss more than for me. I
 think there are a lot of revenue opportunities out there and I think
 we are going to explore a bunch of them.
 
-_I've noticed Matter has published fiction too._
+_<bold>I've noticed Matter has published fiction too.</bold>_
 
 We did it once with the vaccine piece. We did it just to try it. It
 was a short story by Chimamanda Ngozi Adichie, called <a href="https://medium.com/matter/olikoye-b027d7c0a680" target="_blank"><em>"Olikoye."</em></a> Someone
 is going to reinvent short fiction for the Internet age, I just don’t
 think it's going to be us.
 
-_So Matter won't continue publishing fiction?_
+_<bold>So Matter won't continue publishing fiction?</bold>_
 
 No. You'll probably see more of it on Medium, but not on Matter. If
 the right story came to me again, I would do it, but I'm not going to
 spend a lot of time searching.
 
-_We have seen a trend of people in the publishing industry going from well-established traditional jobs like the *New York Times* to new places such as [Fusion](http://fusion.net), [Matter](http://medium.com/matter), or [Upworthy](http://www.upworthy.com). What do you think the reason for that is?_
+_<bold>We have seen a trend of people in the publishing industry going from well-established traditional jobs like the *New York Times* to new places such as [Fusion](http://fusion.net), [Matter](http://medium.com/matter), or [Upworthy](http://www.upworthy.com). What do you think the reason for that is?</bold>_
 
 I think everyone has his or her own reasons, so I can only speak to my
 own. I wanted to be young when I was young. I'm just about to turn 37,
@@ -250,7 +252,7 @@ I'd be going to Clash shows and I wouldn't be going out to listen to
 classical music. I would want to feel like I have something to
 contribute to something that is new.
 
-_Do you feel like there is more room to be creative at Matter, compared to *The New York Times*?_
+_<bold>Do you feel like there is more room to be creative at Matter, compared to *The New York Times*?</bold>_
 
 I think creativity is the wrong term. I can do the work that I want to
 do in a less mediated way. I don't have to speak through the voice of
@@ -268,7 +270,7 @@ kinds of institutions right now. I'm sure people feel that it happens
 everyday at places like [BuzzFeed](http://buzzfeed.com) and
 [VICE](http://vice.com), and those are massive institutions.
 
-_Do you think that power dynamics will change? Will newer and smaller publications have more of the kind of power that the *Times* has?_
+_<bold>Do you think that power dynamics will change? Will newer and smaller publications have more of the kind of power that the *Times* has?</bold>_
 
 I think that newer publications will have that level of
 influence. BuzzFeed, which was founded in 2006, and VICE, which is
@@ -280,11 +282,11 @@ in the *New York Times*.
 
 ---
 
->News and stories are not delivered through a vertical hierarchy
->anymore, the information age draws its power from a horizontal
->structure. Smart journalism is what is produced when citizen
->journalists and professional journalists work together. This is
->exactly what Matter has realized.
+> News and stories are not delivered through a vertical hierarchy
+> anymore, the information age draws its power from a horizontal
+> structure. Smart journalism is what is produced when citizen
+> journalists and professional journalists work together. This is
+> exactly what Matter has realized.
 
 ----
 
@@ -309,7 +311,7 @@ professional journalists work together. This is exactly what Matter
 has realized.</em>
 
 
-_Will Matter revolutionize the way people read online?_
+_<bold>Will Matter revolutionize the way people read online?</bold>_
 
 I would be an idiot if I answered yes to that, but we are in the
 social media age. Every publication is fundamentally playing the same
@@ -329,7 +331,7 @@ respond, and they can all talk to each other. I think people are going
 to have to stop using engagement as buzzword and start taking it super
 seriously.
 
-_Yeah, something I found intriguing about Medium/Matter is that you can comment all the time, wherever in the text. You can highlight bits of the text that you like and share. I'm almost surprised this isn't a common feature on more online publications._
+_<bold>Yeah, something I found intriguing about Medium/Matter is that you can comment all the time, wherever in the text. You can highlight bits of the text that you like and share. I'm almost surprised this isn't a common feature on more online publications.</bold>_
 
 We first did it for an old piece by Michael Paterniti, who is a *GQ*
 writer and was an *Esquire* writer before that, he just had a new
@@ -341,23 +343,23 @@ interview him in the notes, like in the comments, where they had a
 conversation about the issues at stake in the piece. I think that was
 the beginning of some cool things we should be able to do.
 
-_Were those notes edited or did the notes display the exact conversation?_
+_<bold>Were those notes edited or did the notes display the exact conversation?</bold>_
 
 It's pretty much displayed exactly the way it went down. We sort of
 mediated the conversation, but it's pretty pure between all of them.
 
-_How do you think other publications are looking at Matter?_
+_<bold>How do you think other publications are looking at Matter?</bold>_
 
 I have no idea! I'd be afraid to even guess. I mean, I know what our
 numbers are, and our numbers are good. Other than that I only ever
 hear from my friends and my parents. My friends seem to like it. My
 parents are mixed.
 
-_What if you had to pinpoint one goal for Matter? What would you see in the future for Matter, say five years from now?_
+_<bold>What if you had to pinpoint one goal for Matter? What would you see in the future for Matter, say five years from now?</bold>_
 
 I think right now, there is a type of reader, an audience of which you and I are both a part of, sort of a young, globally-minded, creative people. People who are incredibly emerged in the Internet, but feel pretty exhausted by it. There's just all this shit coming at you every single day. It's not only that you don't know which of it you need to read or not, but you also don’t know where to talk about it. I want Matter to become the publication where people can not only read work that is big, ambitious, relevant,  imaginative, and fun, about the world around them and the lives that we are all living, but work that is a place where you can actually talk about those ideas and issues. That to me is success. That it is not only a place for us to tell great stories but for people to share their own ideas and stories, and points of view in a way that feels really different and meaningful.
 
-_I like that Matter believes in their readers and thinks that they are smart enough to be a part of the conversation. I feel that so many of the more old fashioned publications still operate by the idea that we are the ones to tell our readers what to think, whereas Matter says, "let's talk about this."_
+_<bold>I like that Matter believes in their readers and thinks that they are smart enough to be a part of the conversation. I feel that so many of the more old fashioned publications still operate by the idea that we are the ones to tell our readers what to think, whereas Matter says, "let's talk about this."</bold>_
 
 Yeah, I also think that this challenges us. I mean, it would be much
 easier if we were just saying "Alright, we are going to cut off a
@@ -375,7 +377,7 @@ increasingly dominant news-force. This is a magazine for them.
 What does your generation in Norway read? Did you read English
 publications growing up?
 
-_Well, growing up we only read news in Norwegian, but now from my personal experience, I think most news-savvy people in their 20's read BuzzFeed and VICE just as much as traditional Norwegian newspapers._
+_<bold>Well, growing up we only read news in Norwegian, but now from my personal experience, I think most news-savvy people in their 20's read BuzzFeed and VICE just as much as traditional Norwegian newspapers.</bold>_
 
 Right, I do think that there is an opening in that audience. People
 share a certain kind of global, progressive, and cosmopolitan
@@ -387,19 +389,19 @@ Just this morning I saw a <a href="http://www.tv2.no/a/6713261" target="_blank">
 
 What's funny is that we actually did a <a href="https://medium.com/matter/all-dressed-up-for-mars-and-nowhere-to-go-7e76df527ca0" target="_blank">giant piece about it back in November</a>, which basically said everything that's in this latest story, but in the latest story, because we had an actual Mars One finalist who's kind of disclosing his experiences, it has really blown up in a different way. We are actually doing another piece today, a further investigation. It has the value of a good news scoop.
 
-_So global readership is a goal for Matter?_
+_<bold>So global readership is a goal for Matter?</bold>_
 
 Definitely! We actually do, our audience is about 40% international. Medium in general has very high international readership, and Matter is a pretty strong reflection of that. It's not just that it frees us to do stories from Sierra Leone, Syria, Sweden, Australia, or Hong Kong, it is also that we don't have to write those pieces so that they are just explaining international affairs back to American audiences. We can find people who want to read those stories elsewhere.
 
-_What would you say to those in my generation who are getting into publishing? Do you have any advice?_
+_<bold>What would you say to those in my generation who are getting into publishing? Do you have any advice?</bold>_
 
 I'm one of those people who believe that this is the greatest possible time to be a journalist. I don't want my daughter to do it. I’d like her to go be a scientist or something, but I still think that this is an amazing time, because there are almost too many outlets out there. A lot of them are doing exceptional work, and all of them feed off of the energy and creativity of young people. But getting that first job is hard. Getting all the subsequent jobs is easier than it ever was.
 
-_How did you get your first job?_
+_<bold>How did you get your first job?</bold>_
 
 It took me a long time. I graduated in 2000 and started looking for work the as the dot com media bubble was blowing up. Then 9/11 happened, and it was a really awful time to try and become a journalist. I did better the second time I came to New York, when I tried to do it again in 2004. Back then it was very simple, I didn't want to go to journalism school, but there were some very good internships here in New York. [*Harper's*](http://harpers.org), [*The Nation*](http://www.thenation.com), [*n+1*](https://nplusonemag.com), [*The New Yorker*](http://www.newyorker.com), were the best for making certain kinds of connections, but I don't know if that is still true anymore. You should look for the places that are really expanding and investing in new voices. I would always go for the new place. Especially right now. There are literally more jobs right now than people know how to hire for.
 
-_Even in journalism and publishing?_
+_<bold>Even in journalism and publishing?</bold>_
 
 Definitely. It doesn't necessarily feel like it if you are an applicant, but there are a lot of people hiring all the time.
 
