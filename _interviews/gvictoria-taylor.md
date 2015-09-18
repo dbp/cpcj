@@ -14,6 +14,11 @@ img: logos/logo-reddit.jpg
 
 ***April, 2015***
 
+***Update:*** <em>A few months after this interview took place, <a href="http://bits.blogs.nytimes.com/2015/07/13/details-emerge-about-victoria-taylors-dismissal-at-reddit/" target="_blanl">Victoria Taylor left reddit</a> due to a controversy over the site’s popular AMA (Ask Me Anything) forum, which Taylor was responsible for organizing. Her dismissal caused many of the voluntary moderators at reddit to protest <a href="http://www.nytimes.com/2015/07/04/technology/reddit-moderators-shut-down-parts-of-site-over-executives-dismissal.html" target="_blank">by shutting down hundreds of sub-forums on the site.</a> <br>
+- Editors</em>
+
+---
+
 <p class="dek">It's a big year for reddit. Next month will mark ten years since the company first launched its website and quickly became one of the world’s most popular online communities with millions of daily users. I met with reddit's Director of Talent, Victoria Taylor, to discuss why “The Front Page of the Internet” is still going strong after a decade---and why they recently decided to enter new media territory.</p>
 
 It was only 10 A.M. when I sat down to chat with Taylor in reddit's trendy coworking space in Lower Manhattan, but the company already had the Internet buzzing with excitement. It was the morning of April Fools’ Day and reddit had posted a mysterious blue button to its website, which reddit users—or “redditors”—were only allowed to push once. Next to the button was a timer that counted down from 60 seconds, and every time a redditor pushed the button the timer was reset. For months, no-one knew what would happen when the timer hit zero. The prank drove users wild with anticipation (more than one million people pushed the button) until, finally, it ended on June 8th with a short message from reddit, simply reading: <a href="http://www.theguardian.com/technology/2015/jun/08/reddits-mysterious-button-experiment-is-over">“The experiment is over.”</a>
