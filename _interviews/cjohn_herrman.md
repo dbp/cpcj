@@ -4,7 +4,7 @@ short: The Awl
 title: The Future of the Media Beat
 subtitle: Know it Awls
 subject: John Herrman
-role: Editor
+role: Editor, The Awl
 byline: By Gabriel Clermont
 x: 680 
 y: 75
@@ -112,7 +112,7 @@ Right, and the answer is to interfere with it and kind of fuck it up. Which is I
 
 The coolest thing is when you find someone on YouTube who is 18 and feels totally comfortable using their phone as a camera, who has a really natural relationship with that camera. That comes through in the videos and you're just like, “These people are from a different time, they are really not that far away in age." I grew up with Internet forums and whatever, and they grew up with this. This is their thing, and they're going to get better at this. 
 
-_<bold>So about Facebook Publishing, I guess no one knows, but what will that look like? Will you go to a *New York Times* page, will you go to facebook.com/newyorktimes?</bold>_
+_<bold>So about Facebook Publishing, I guess no one knows, but what will that look like? Will you go to a New York Times page, will you go to facebook.com/newyorktimes?</bold>_
 
 I’m sure it'll be really good. Facebook has the best tech talent in the world.
 
@@ -120,7 +120,7 @@ The little stuff is kind of fun to think about too… What will the typography a
 
 But that won't really matter, that's not how people are going to consume it. People are still going to be in their feeds, or passing things around on Messenger or somewhere else. I'm sure you'll be able to see these things on the outside too. They'll just be like websites. From the rest of the Internet they won’t be any faster or better than a good web page, but within Facebook they'll be better.
 
-_<bold>The [AOL comment](http://www.theverge.com/2015/1/4/7488495/facebook-is-the-new-aol) that you hear kind of jokingly used...</bold>_
+_<bold>The <a href="http://www.theverge.com/2015/1/4/7488495/facebook-is-the-new-aol" target="_blank">AOL comment</a> that you hear kind of jokingly used...</bold>_
 
 The crazy thing about that is that you couldn't get into AOL from the outside.
 
