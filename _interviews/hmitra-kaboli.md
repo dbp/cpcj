@@ -13,8 +13,12 @@ img: logos/logo-radiotopia.jpg
 ***March, 2015***
 
 <p class="dek">A talk with The Heart’s Mitra Kaboli on sex on and off the air, the whiteness of public radio, being a freelancer and the rising podcast optimism.</p>
-   
-“Let’s talk about sex, baby. Let’s talk about you and me.” So sang the three women of Salt-N-Pepa in 1990. It could also be a tagline for The Heart.
+
+---
+
+<em>“Let’s talk about sex, baby. Let’s talk about you and me.” So sang the three women of Salt-N-Pepa in 1990. It could also be a tagline for The Heart.</em>
+
+---
 
 The Heart is a podcast that shows why radio is so important. Radio brings things up-close and personal; headphones plug you into another person’s voice, telling their story as if it is coming from inside your own head, and in turn possibly making the ear the most empathetic organ. The Heart also follows the radio revolution that is being carried forward by technological developments that make radio programs easier to produce and distribute. Not that it could, should, or ever would replace the news, but shows like The Heart provide an alternate narrative to corporate media’s 24-hour news cycle. It’s also fun. And sexy.
 
