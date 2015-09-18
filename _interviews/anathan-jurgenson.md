@@ -96,7 +96,7 @@ It’s a document double of existence, which then we can rank, put a score on ev
 
  We get our complexity from how contradictory we are all of the time; we don’t fit into the databases as nicely and easily as I think the data scientists that build that social media think. They are always ranking our moods. Anybody who studies happiness studies knows that we don’t work like that, like some people are happy to be sad. It doesn’t fit that way, like maybe Russia scores really low on happiness, but they might enjoy being sad. It doesn’t make sense that happiness sits on a linear scale of one to ten. 
 
-_<bold>Is that what you mean about [augmented reality?](http://thesocietypages.org/cyborgology/2011/02/24/digital-dualism-versus-augmented-reality/)</bold>_
+_<bold>Is that what you mean about <a href="http://thesocietypages.org/cyborgology/2011/02/24/digital-dualism-versus-augmented-reality/" target="_blank">augmented reality?</a></bold>_
 
 It’s a term I don’t use a ton. I want to get at the idea that there is one reality, and that this is opposed to what I call digital dualism.
 
