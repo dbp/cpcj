@@ -2,7 +2,7 @@
 layout: interview
 short: Medium, Matter
 title: The Age of Engagement
-subtitle: A discussion with Matter's Editor-in-chief
+subtitle: A discussion with Matter's Editor-in-Chief
 subject: Mark Lotto
 role: Matter, Editor-in-Chief
 byline: By Silje Kristine Andersen, edited by Carlo Mantuano
@@ -15,7 +15,7 @@ img: logos/logo-medium-matter.jpg
 
 ---
 
-***UPDATE:*** _On May 21, a few months after this interview was conducted, Medium founder Ev Williams <a href="https://medium.com/the-story/medium-is-not-a-publishing-tool-4c3c63fa41d2" target="_blank">has stated that</a> "Medium is not a publishing tool. It’s a network. A network of ideas that build off each other. And people." Mark Lotto explains the apparent shift in purpose and messaging <a href="https://medium.com/@lotto/what-s-going-on-at-medium-www-buzzfeed-com-c4d47c4bff15" target="_blank"> in his own words here.</a><br>_ 
+***UPDATE:*** _On May 21, a few months after this interview was conducted, Medium founder Ev Williams <a href="https://medium.com/the-story/medium-is-not-a-publishing-tool-4c3c63fa41d2" target="_blank">has stated that</a> "Medium is not a publishing tool. It’s a network. A network of ideas that build off each other. And people." Mark Lotto---who is now Medium's Head of Editorial in addition to Matter's Editor-in-Chief---explains the apparent shift in purpose and messaging <a href="https://medium.com/@lotto/what-s-going-on-at-medium-www-buzzfeed-com-c4d47c4bff15" target="_blank"> in his own words here.</a><br>_ 
 - _Editors_ 
 
 ---
@@ -98,7 +98,7 @@ going to be. What our direction is going to be. And then helping
 everyone on staff, all the editors, the writers below me, to fulfill
 that vision. Matter is a little complicated in the sense that Matter
 started out originally as a long-form science publication founded by
-Bobby Johnson and Jim Giles. Bobby continues to work for me, but Jim
+Bobbie Johnson and Jim Giles. Bobbie continues to work for me, but Jim
 is no longer there. It was <a href="https://www.kickstarter.com/projects/readmatter/matter/description" target="_blank">acquired by Medium not long after it raised
 its money on Kickstarter.</a>
 
