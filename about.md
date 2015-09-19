@@ -8,9 +8,9 @@ permalink: /about/
 
   <h2>CPCJ Media Landscape</h2>
 
-  Spring 2015, Volume 1
+  Spring 2015, Archive 1
   <br /><br />
-  A critical survey of developments in contemporary media concieved of, developed, designed, edited and produced by the students of NSSR's <a href="http://creative-publishing.org/">MA in Creative Publishing and Critical Journalsim</a>. 
+  An historically situated, critical survey of developments in media concieved of, developed, designed, edited and produced by the students of NSSR's <a href="http://creative-publishing.org/">MA in Creative Publishing and Critical Journalsim</a>. 
   
 
 </div>
