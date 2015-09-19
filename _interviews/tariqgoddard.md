@@ -4,7 +4,7 @@ short: Repeater Books
 title: Today's Books, Tomorrow
 subtitle: The future repeats itself
 subject: Tariq Goddard
-role: Publisher
+role: Publisher, Repeater Books
 byline: By Cerise Steel
 x: 600
 y: 600
