@@ -11,7 +11,7 @@ permalink: /toc/
 
 <a href="/ednote">Creative Publishing and Critical Journalism</a>
 
-<p>A critical overview of contemporary media from The New School</p>
+<p>A critical overview of media in 2015 from The New School</p>
 
 </div>
 
