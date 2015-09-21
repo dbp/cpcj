@@ -1,13 +1,4 @@
----
-layout: interview
-short: Snapchat Discover
-title: When Viral Goes Viral
-subtitle: It's time to understand Snapchat Discover 
-subject: Nathan Jurgenson
-role: Snapchat, Researcher
-byline: By Troy O’Neill
-img: logos/logo-snapchat.jpg
----
+
 
 ***March, 2015***
 
